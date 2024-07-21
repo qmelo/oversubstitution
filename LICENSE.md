@@ -1,2 +1,3 @@
 # 利用規約
-srcフォルダ以下のファイルは、[MIT License](LICENSE_MIT.txt)に基づいて公開されています。
+publicフォルダ以下のファイルは一般的な著作権法に基づいて公開されています。
+それ以外のファイルは、[MIT License](LICENSE_MIT.txt)に基づいて公開されています。
