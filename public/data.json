@@ -1,0 +1,6349 @@
+{
+    "data": [
+        {
+            "kashi": "悴",
+            "kana": "カ",
+            "index": 0,
+            "length": 3,
+            "x": 0,
+            "y": 0,
+            "time": 0.375
+        },
+        {
+            "kashi": "悴",
+            "kana": "ジ",
+            "index": 1,
+            "length": 3,
+            "x": 1,
+            "y": 0,
+            "time": 0.625
+        },
+        {
+            "kashi": "悴",
+            "kana": "カ",
+            "index": 2,
+            "length": 3,
+            "x": 2,
+            "y": 0,
+            "time": 0.75
+        },
+        {
+            "kashi": "む",
+            "kana": "ム",
+            "index": 0,
+            "length": 1,
+            "x": 3,
+            "y": 0,
+            "time": 0.875
+        },
+        {
+            "kashi": "手",
+            "kana": "テ",
+            "index": 0,
+            "length": 1,
+            "x": 4,
+            "y": 0,
+            "time": 1.0
+        },
+        {
+            "kashi": "が",
+            "kana": "ガ",
+            "index": 0,
+            "length": 1,
+            "x": 0,
+            "y": 1,
+            "time": 1.375
+        },
+        {
+            "kashi": "私",
+            "kana": "シ",
+            "index": 0,
+            "length": 1,
+            "x": 1,
+            "y": 1,
+            "time": 1.625
+        },
+        {
+            "kashi": "感",
+            "kana": "カ",
+            "index": 0,
+            "length": 2,
+            "x": 2,
+            "y": 1,
+            "time": 1.75
+        },
+        {
+            "kashi": "感",
+            "kana": "ン",
+            "index": 1,
+            "length": 2,
+            "x": 3,
+            "y": 1,
+            "time": 1.875
+        },
+        {
+            "kashi": "で",
+            "kana": "デ",
+            "index": 0,
+            "length": 1,
+            "x": 4,
+            "y": 1,
+            "time": 2.0
+        },
+        {
+            "kashi": "価",
+            "kana": "カ",
+            "index": 0,
+            "length": 1,
+            "x": 0,
+            "y": 2,
+            "time": 2.375
+        },
+        {
+            "kashi": "値",
+            "kana": "チ",
+            "index": 0,
+            "length": 1,
+            "x": 1,
+            "y": 2,
+            "time": 2.625
+        },
+        {
+            "kashi": "咬",
+            "kana": "カ",
+            "index": 0,
+            "length": 1,
+            "x": 2,
+            "y": 2,
+            "time": 2.75
+        },
+        {
+            "kashi": "ん",
+            "kana": "ン",
+            "index": 0,
+            "length": 1,
+            "x": 3,
+            "y": 2,
+            "time": 2.875
+        },
+        {
+            "kashi": "で",
+            "kana": "デ",
+            "index": 0,
+            "length": 1,
+            "x": 4,
+            "y": 2,
+            "time": 3.0
+        },
+        {
+            "kashi": "過",
+            "kana": "カ",
+            "index": 0,
+            "length": 1,
+            "x": 0,
+            "y": 3,
+            "time": 3.375
+        },
+        {
+            "kashi": "置",
+            "kana": "チ",
+            "index": 0,
+            "length": 1,
+            "x": 1,
+            "y": 3,
+            "time": 3.625
+        },
+        {
+            "kashi": "換",
+            "kana": "カ",
+            "index": 0,
+            "length": 2,
+            "x": 2,
+            "y": 3,
+            "time": 3.75
+        },
+        {
+            "kashi": "換",
+            "kana": "ン",
+            "index": 1,
+            "length": 2,
+            "x": 3,
+            "y": 3,
+            "time": 3.875
+        },
+        {
+            "kashi": "へ",
+            "kana": "ヘ",
+            "index": 0,
+            "length": 1,
+            "x": 4,
+            "y": 3,
+            "time": 4.0
+        },
+        {
+            "kashi": "勝",
+            "kana": "カ",
+            "index": 0,
+            "length": 1,
+            "x": 0,
+            "y": 4,
+            "time": 4.375
+        },
+        {
+            "kashi": "ち",
+            "kana": "チ",
+            "index": 0,
+            "length": 1,
+            "x": 1,
+            "y": 4,
+            "time": 4.625
+        },
+        {
+            "kashi": "が",
+            "kana": "ガ",
+            "index": 0,
+            "length": 1,
+            "x": 2,
+            "y": 4,
+            "time": 4.75
+        },
+        {
+            "kashi": "囲",
+            "kana": "イ",
+            "index": 0,
+            "length": 1,
+            "x": 3,
+            "y": 4,
+            "time": 4.875
+        },
+        {
+            "kashi": "壁",
+            "kana": "ヘ",
+            "index": 0,
+            "length": 2,
+            "x": 4,
+            "y": 4,
+            "time": 5.0
+        },
+        {
+            "kashi": "壁",
+            "kana": "キ",
+            "index": 1,
+            "length": 2,
+            "x": 6,
+            "y": 4,
+            "time": 5.375
+        },
+        {
+            "kashi": "に",
+            "kana": "ニ",
+            "index": 0,
+            "length": 1,
+            "x": 7,
+            "y": 4,
+            "time": 5.5
+        },
+        {
+            "kashi": "な",
+            "kana": "ナ",
+            "index": 0,
+            "length": 1,
+            "x": 8,
+            "y": 4,
+            "time": 5.625
+        },
+        {
+            "kashi": "る",
+            "kana": "ル",
+            "index": 0,
+            "length": 1,
+            "x": 9,
+            "y": 4,
+            "time": 5.75
+        },
+        {
+            "kashi": "兵",
+            "kana": "ヘ",
+            "index": 0,
+            "length": 2,
+            "x": 4,
+            "y": 5,
+            "time": 6.0
+        },
+        {
+            "kashi": "兵",
+            "kana": "イ",
+            "index": 1,
+            "length": 2,
+            "x": 5,
+            "y": 5,
+            "time": 6.25
+        },
+        {
+            "kashi": "器",
+            "kana": "キ",
+            "index": 0,
+            "length": 1,
+            "x": 6,
+            "y": 5,
+            "time": 6.375
+        },
+        {
+            "kashi": "に",
+            "kana": "ニ",
+            "index": 0,
+            "length": 1,
+            "x": 7,
+            "y": 5,
+            "time": 6.5
+        },
+        {
+            "kashi": "成",
+            "kana": "ナ",
+            "index": 0,
+            "length": 1,
+            "x": 8,
+            "y": 5,
+            "time": 6.625
+        },
+        {
+            "kashi": "る",
+            "kana": "ル",
+            "index": 0,
+            "length": 1,
+            "x": 9,
+            "y": 5,
+            "time": 6.75
+        },
+        {
+            "kashi": "べ",
+            "kana": "ベ",
+            "index": 0,
+            "length": 1,
+            "x": 4,
+            "y": 6,
+            "time": 7.0
+        },
+        {
+            "kashi": "く",
+            "kana": "ク",
+            "index": 0,
+            "length": 1,
+            "x": 5,
+            "y": 6,
+            "time": 7.25
+        },
+        {
+            "kashi": "気",
+            "kana": "キ",
+            "index": 0,
+            "length": 1,
+            "x": 6,
+            "y": 6,
+            "time": 7.375
+        },
+        {
+            "kashi": "に",
+            "kana": "ニ",
+            "index": 0,
+            "length": 1,
+            "x": 7,
+            "y": 6,
+            "time": 7.5
+        },
+        {
+            "kashi": "な",
+            "kana": "ナ",
+            "index": 0,
+            "length": 1,
+            "x": 8,
+            "y": 6,
+            "time": 7.625
+        },
+        {
+            "kashi": "る",
+            "kana": "ル",
+            "index": 0,
+            "length": 1,
+            "x": 9,
+            "y": 6,
+            "time": 7.75
+        },
+        {
+            "kashi": "大",
+            "kana": "タ",
+            "index": 0,
+            "length": 2,
+            "x": 10,
+            "y": 6,
+            "time": 7.875
+        },
+        {
+            "kashi": "大",
+            "kana": "イ",
+            "index": 1,
+            "length": 2,
+            "x": 11,
+            "y": 6,
+            "time": 8.0
+        },
+        {
+            "kashi": "過",
+            "kana": "カ",
+            "index": 0,
+            "length": 1,
+            "x": 12,
+            "y": 6,
+            "time": 8.125
+        },
+        {
+            "kashi": "し",
+            "kana": "シ",
+            "index": 0,
+            "length": 1,
+            "x": 13,
+            "y": 6,
+            "time": 8.25
+        },
+        {
+            "kashi": "て",
+            "kana": "テ",
+            "index": 0,
+            "length": 1,
+            "x": 14,
+            "y": 6,
+            "time": 8.375
+        },
+        {
+            "kashi": "退",
+            "kana": "タ",
+            "index": 0,
+            "length": 2,
+            "x": 10,
+            "y": 7,
+            "time": 8.5
+        },
+        {
+            "kashi": "退",
+            "kana": "イ",
+            "index": 1,
+            "length": 2,
+            "x": 11,
+            "y": 7,
+            "time": 8.875
+        },
+        {
+            "kashi": "化",
+            "kana": "カ",
+            "index": 0,
+            "length": 1,
+            "x": 12,
+            "y": 7,
+            "time": 9.125
+        },
+        {
+            "kashi": "し",
+            "kana": "シ",
+            "index": 0,
+            "length": 1,
+            "x": 13,
+            "y": 7,
+            "time": 9.25
+        },
+        {
+            "kashi": "懈",
+            "kana": "カ",
+            "index": 0,
+            "length": 1,
+            "x": 14,
+            "y": 7,
+            "time": 9.375
+        },
+        {
+            "kashi": "怠",
+            "kana": "タ",
+            "index": 0,
+            "length": 2,
+            "x": 10,
+            "y": 8,
+            "time": 9.5
+        },
+        {
+            "kashi": "怠",
+            "kana": "イ",
+            "index": 1,
+            "length": 2,
+            "x": 11,
+            "y": 8,
+            "time": 9.875
+        },
+        {
+            "kashi": "が",
+            "kana": "ガ",
+            "index": 0,
+            "length": 1,
+            "x": 12,
+            "y": 8,
+            "time": 10.125
+        },
+        {
+            "kashi": "死",
+            "kana": "シ",
+            "index": 0,
+            "length": 1,
+            "x": 13,
+            "y": 8,
+            "time": 10.25
+        },
+        {
+            "kashi": "化",
+            "kana": "カ",
+            "index": 0,
+            "length": 1,
+            "x": 14,
+            "y": 8,
+            "time": 10.375
+        },
+        {
+            "kashi": "体",
+            "kana": "タ",
+            "index": 0,
+            "length": 2,
+            "x": 10,
+            "y": 9,
+            "time": 10.5
+        },
+        {
+            "kashi": "体",
+            "kana": "イ",
+            "index": 1,
+            "length": 2,
+            "x": 11,
+            "y": 9,
+            "time": 10.875
+        },
+        {
+            "kashi": "開",
+            "kana": "カ",
+            "index": 0,
+            "length": 2,
+            "x": 12,
+            "y": 9,
+            "time": 11.125
+        },
+        {
+            "kashi": "開",
+            "kana": "イ",
+            "index": 1,
+            "length": 2,
+            "x": 13,
+            "y": 9,
+            "time": 11.25
+        },
+        {
+            "kashi": "化",
+            "kana": "カ",
+            "index": 0,
+            "length": 1,
+            "x": 14,
+            "y": 9,
+            "time": 11.375
+        },
+        {
+            "kashi": "と",
+            "kana": "ト",
+            "index": 0,
+            "length": 1,
+            "x": 15,
+            "y": 9,
+            "time": 11.5
+        },
+        {
+            "kashi": "聞",
+            "kana": "キ",
+            "index": 0,
+            "length": 1,
+            "x": 16,
+            "y": 9,
+            "time": 11.875
+        },
+        {
+            "kashi": "か",
+            "kana": "カ",
+            "index": 0,
+            "length": 1,
+            "x": 17,
+            "y": 9,
+            "time": 12.125
+        },
+        {
+            "kashi": "せ",
+            "kana": "セ",
+            "index": 0,
+            "length": 1,
+            "x": 18,
+            "y": 9,
+            "time": 12.25
+        },
+        {
+            "kashi": "る",
+            "kana": "ル",
+            "index": 0,
+            "length": 1,
+            "x": 19,
+            "y": 9,
+            "time": 12.375
+        },
+        {
+            "kashi": "大",
+            "kana": "タ",
+            "index": 0,
+            "length": 2,
+            "x": 10,
+            "y": 10,
+            "time": 12.5
+        },
+        {
+            "kashi": "大",
+            "kana": "イ",
+            "index": 1,
+            "length": 2,
+            "x": 11,
+            "y": 10,
+            "time": 12.625
+        },
+        {
+            "kashi": "塊",
+            "kana": "カ",
+            "index": 0,
+            "length": 2,
+            "x": 12,
+            "y": 10,
+            "time": 12.875
+        },
+        {
+            "kashi": "塊",
+            "kana": "イ",
+            "index": 1,
+            "length": 2,
+            "x": 13,
+            "y": 10,
+            "time": 13.0
+        },
+        {
+            "kashi": "が",
+            "kana": "ガ",
+            "index": 0,
+            "length": 1,
+            "x": 14,
+            "y": 10,
+            "time": 13.125
+        },
+        {
+            "kashi": "説",
+            "kana": "ト",
+            "index": 0,
+            "length": 1,
+            "x": 15,
+            "y": 10,
+            "time": 13.5
+        },
+        {
+            "kashi": "き",
+            "kana": "キ",
+            "index": 0,
+            "length": 1,
+            "x": 16,
+            "y": 10,
+            "time": 13.625
+        },
+        {
+            "kashi": "伏",
+            "kana": "フ",
+            "index": 0,
+            "length": 1,
+            "x": 17,
+            "y": 10,
+            "time": 14.0
+        },
+        {
+            "kashi": "せ",
+            "kana": "セ",
+            "index": 0,
+            "length": 1,
+            "x": 18,
+            "y": 10,
+            "time": 14.125
+        },
+        {
+            "kashi": "る",
+            "kana": "ル",
+            "index": 0,
+            "length": 1,
+            "x": 19,
+            "y": 10,
+            "time": 14.5
+        },
+        {
+            "kashi": "退",
+            "kana": "タ",
+            "index": 0,
+            "length": 2,
+            "x": 10,
+            "y": 11,
+            "time": 30.5
+        },
+        {
+            "kashi": "退",
+            "kana": "イ",
+            "index": 1,
+            "length": 2,
+            "x": 11,
+            "y": 11,
+            "time": 30.625
+        },
+        {
+            "kashi": "廃",
+            "kana": "ハ",
+            "index": 0,
+            "length": 2,
+            "x": 12,
+            "y": 11,
+            "time": 31.0
+        },
+        {
+            "kashi": "廃",
+            "kana": "イ",
+            "index": 1,
+            "length": 2,
+            "x": 13,
+            "y": 11,
+            "time": 31.125
+        },
+        {
+            "kashi": "だ",
+            "kana": "ダ",
+            "index": 0,
+            "length": 1,
+            "x": 10,
+            "y": 12,
+            "time": 31.375
+        },
+        {
+            "kashi": "威",
+            "kana": "イ",
+            "index": 0,
+            "length": 1,
+            "x": 11,
+            "y": 12,
+            "time": 31.625
+        },
+        {
+            "kashi": "張",
+            "kana": "バ",
+            "index": 0,
+            "length": 1,
+            "x": 12,
+            "y": 12,
+            "time": 31.75
+        },
+        {
+            "kashi": "り",
+            "kana": "リ",
+            "index": 0,
+            "length": 1,
+            "x": 13,
+            "y": 12,
+            "time": 31.875
+        },
+        {
+            "kashi": "散",
+            "kana": "チ",
+            "index": 0,
+            "length": 1,
+            "x": 14,
+            "y": 12,
+            "time": 32.0
+        },
+        {
+            "kashi": "ら",
+            "kana": "ラ",
+            "index": 0,
+            "length": 1,
+            "x": 16,
+            "y": 12,
+            "time": 32.125
+        },
+        {
+            "kashi": "す",
+            "kana": "ス",
+            "index": 0,
+            "length": 1,
+            "x": 17,
+            "y": 12,
+            "time": 32.25
+        },
+        {
+            "kashi": "大",
+            "kana": "ダ",
+            "index": 0,
+            "length": 2,
+            "x": 18,
+            "y": 12,
+            "time": 32.375
+        },
+        {
+            "kashi": "大",
+            "kana": "イ",
+            "index": 1,
+            "length": 2,
+            "x": 19,
+            "y": 12,
+            "time": 32.5
+        },
+        {
+            "kashi": "体",
+            "kana": "タ",
+            "index": 0,
+            "length": 2,
+            "x": 10,
+            "y": 13,
+            "time": 32.625
+        },
+        {
+            "kashi": "体",
+            "kana": "イ",
+            "index": 1,
+            "length": 2,
+            "x": 11,
+            "y": 13,
+            "time": 32.75
+        },
+        {
+            "kashi": "は",
+            "kana": "ハ",
+            "index": 0,
+            "length": 1,
+            "x": 12,
+            "y": 13,
+            "time": 32.875
+        },
+        {
+            "kashi": "律",
+            "kana": "リ",
+            "index": 0,
+            "length": 2,
+            "x": 13,
+            "y": 13,
+            "time": 33.0
+        },
+        {
+            "kashi": "律",
+            "kana": "チ",
+            "index": 1,
+            "length": 2,
+            "x": 14,
+            "y": 13,
+            "time": 33.125
+        },
+        {
+            "kashi": "儀",
+            "kana": "ギ",
+            "index": 0,
+            "length": 1,
+            "x": 15,
+            "y": 13,
+            "time": 33.25
+        },
+        {
+            "kashi": "立",
+            "kana": "タ",
+            "index": 0,
+            "length": 1,
+            "x": 13,
+            "y": 14,
+            "time": 33.375
+        },
+        {
+            "kashi": "ち",
+            "kana": "チ",
+            "index": 0,
+            "length": 1,
+            "x": 14,
+            "y": 14,
+            "time": 33.5
+        },
+        {
+            "kashi": "切",
+            "kana": "キ",
+            "index": 0,
+            "length": 1,
+            "x": 15,
+            "y": 14,
+            "time": 33.625
+        },
+        {
+            "kashi": "ら",
+            "kana": "ラ",
+            "index": 0,
+            "length": 1,
+            "x": 16,
+            "y": 14,
+            "time": 33.75
+        },
+        {
+            "kashi": "ず",
+            "kana": "ズ",
+            "index": 0,
+            "length": 1,
+            "x": 17,
+            "y": 14,
+            "time": 33.875
+        },
+        {
+            "kashi": "気",
+            "kana": "キ",
+            "index": 0,
+            "length": 1,
+            "x": 15,
+            "y": 15,
+            "time": 34.0
+        },
+        {
+            "kashi": "楽",
+            "kana": "ラ",
+            "index": 0,
+            "length": 2,
+            "x": 16,
+            "y": 15,
+            "time": 34.125
+        },
+        {
+            "kashi": "楽",
+            "kana": "ク",
+            "index": 1,
+            "length": 2,
+            "x": 17,
+            "y": 15,
+            "time": 34.25
+        },
+        {
+            "kashi": "対",
+            "kana": "タ",
+            "index": 0,
+            "length": 2,
+            "x": 18,
+            "y": 15,
+            "time": 34.5
+        },
+        {
+            "kashi": "対",
+            "kana": "イ",
+            "index": 1,
+            "length": 2,
+            "x": 19,
+            "y": 15,
+            "time": 34.625
+        },
+        {
+            "kashi": "局",
+            "kana": "キョ",
+            "index": 0,
+            "length": 2,
+            "x": 20,
+            "y": 15,
+            "time": 35.0
+        },
+        {
+            "kashi": "局",
+            "kana": "ク",
+            "index": 1,
+            "length": 2,
+            "x": 21,
+            "y": 15,
+            "time": 35.125
+        },
+        {
+            "kashi": "落",
+            "kana": "ラ",
+            "index": 0,
+            "length": 2,
+            "x": 16,
+            "y": 16,
+            "time": 35.375
+        },
+        {
+            "kashi": "落",
+            "kana": "ク",
+            "index": 1,
+            "length": 2,
+            "x": 17,
+            "y": 16,
+            "time": 35.5
+        },
+        {
+            "kashi": "第",
+            "kana": "ダ",
+            "index": 0,
+            "length": 2,
+            "x": 18,
+            "y": 16,
+            "time": 35.625
+        },
+        {
+            "kashi": "第",
+            "kana": "イ",
+            "index": 1,
+            "length": 2,
+            "x": 19,
+            "y": 16,
+            "time": 35.75
+        },
+        {
+            "kashi": "曲",
+            "kana": "キョ",
+            "index": 0,
+            "length": 2,
+            "x": 20,
+            "y": 16,
+            "time": 35.875
+        },
+        {
+            "kashi": "曲",
+            "kana": "ク",
+            "index": 1,
+            "length": 2,
+            "x": 21,
+            "y": 16,
+            "time": 36.0
+        },
+        {
+            "kashi": "す",
+            "kana": "ス",
+            "index": 0,
+            "length": 1,
+            "x": 22,
+            "y": 16,
+            "time": 36.125
+        },
+        {
+            "kashi": "で",
+            "kana": "デ",
+            "index": 0,
+            "length": 1,
+            "x": 24,
+            "y": 16,
+            "time": 36.25
+        },
+        {
+            "kashi": "に",
+            "kana": "ニ",
+            "index": 0,
+            "length": 1,
+            "x": 25,
+            "y": 16,
+            "time": 36.375
+        },
+        {
+            "kashi": "食",
+            "kana": "ク",
+            "index": 0,
+            "length": 1,
+            "x": 21,
+            "y": 17,
+            "time": 36.5
+        },
+        {
+            "kashi": "い",
+            "kana": "イ",
+            "index": 0,
+            "length": 1,
+            "x": 22,
+            "y": 17,
+            "time": 36.625
+        },
+        {
+            "kashi": "手",
+            "kana": "テ",
+            "index": 0,
+            "length": 1,
+            "x": 24,
+            "y": 17,
+            "time": 36.75
+        },
+        {
+            "kashi": "に",
+            "kana": "ニ",
+            "index": 0,
+            "length": 1,
+            "x": 25,
+            "y": 17,
+            "time": 36.875
+        },
+        {
+            "kashi": "堕",
+            "kana": "オ",
+            "index": 0,
+            "length": 1,
+            "x": 26,
+            "y": 17,
+            "time": 37.0
+        },
+        {
+            "kashi": "ち",
+            "kana": "チ",
+            "index": 0,
+            "length": 1,
+            "x": 27,
+            "y": 17,
+            "time": 37.125
+        },
+        {
+            "kashi": "た",
+            "kana": "タ",
+            "index": 0,
+            "length": 1,
+            "x": 28,
+            "y": 17,
+            "time": 37.25
+        },
+        {
+            "kashi": "身",
+            "kana": "ミ",
+            "index": 0,
+            "length": 1,
+            "x": 29,
+            "y": 17,
+            "time": 37.375
+        },
+        {
+            "kashi": "大",
+            "kana": "タ",
+            "index": 0,
+            "length": 2,
+            "x": 18,
+            "y": 18,
+            "time": 37.625
+        },
+        {
+            "kashi": "大",
+            "kana": "イ",
+            "index": 1,
+            "length": 2,
+            "x": 19,
+            "y": 18,
+            "time": 37.75
+        },
+        {
+            "kashi": "義",
+            "kana": "ギ",
+            "index": 0,
+            "length": 1,
+            "x": 20,
+            "y": 18,
+            "time": 37.875
+        },
+        {
+            "kashi": "悔",
+            "kana": "ク",
+            "index": 0,
+            "length": 1,
+            "x": 21,
+            "y": 18,
+            "time": 38.0
+        },
+        {
+            "kashi": "い",
+            "kana": "イ",
+            "index": 0,
+            "length": 1,
+            "x": 22,
+            "y": 18,
+            "time": 38.125
+        },
+        {
+            "kashi": "て",
+            "kana": "テ",
+            "index": 0,
+            "length": 1,
+            "x": 24,
+            "y": 18,
+            "time": 38.25
+        },
+        {
+            "kashi": "煮",
+            "kana": "ニ",
+            "index": 0,
+            "length": 1,
+            "x": 25,
+            "y": 18,
+            "time": 38.375
+        },
+        {
+            "kashi": "立",
+            "kana": "ダ",
+            "index": 0,
+            "length": 1,
+            "x": 26,
+            "y": 18,
+            "time": 38.5
+        },
+        {
+            "kashi": "ち",
+            "kana": "チ",
+            "index": 0,
+            "length": 1,
+            "x": 27,
+            "y": 18,
+            "time": 38.625
+        },
+        {
+            "kashi": "杭",
+            "kana": "ク",
+            "index": 0,
+            "length": 2,
+            "x": 21,
+            "y": 19,
+            "time": 38.75
+        },
+        {
+            "kashi": "杭",
+            "kana": "イ",
+            "index": 1,
+            "length": 2,
+            "x": 22,
+            "y": 19,
+            "time": 38.875
+        },
+        {
+            "kashi": "宛",
+            "kana": "ア",
+            "index": 0,
+            "length": 1,
+            "x": 23,
+            "y": 19,
+            "time": 39.0
+        },
+        {
+            "kashi": "て",
+            "kana": "テ",
+            "index": 0,
+            "length": 1,
+            "x": 24,
+            "y": 19,
+            "time": 39.125
+        },
+        {
+            "kashi": "に",
+            "kana": "ニ",
+            "index": 0,
+            "length": 1,
+            "x": 25,
+            "y": 19,
+            "time": 39.25
+        },
+        {
+            "kashi": "太",
+            "kana": "タ",
+            "index": 0,
+            "length": 1,
+            "x": 26,
+            "y": 19,
+            "time": 39.375
+        },
+        {
+            "kashi": "刀",
+            "kana": "チ",
+            "index": 0,
+            "length": 1,
+            "x": 27,
+            "y": 19,
+            "time": 39.5
+        },
+        {
+            "kashi": "ダ",
+            "kana": "ダ",
+            "index": 0,
+            "length": 1,
+            "x": 28,
+            "y": 19,
+            "time": 39.625
+        },
+        {
+            "kashi": "ミ",
+            "kana": "ミ",
+            "index": 0,
+            "length": 1,
+            "x": 29,
+            "y": 19,
+            "time": 39.75
+        },
+        {
+            "kashi": "ー",
+            "kana": "ー",
+            "index": 0,
+            "length": 1,
+            "x": 30,
+            "y": 19,
+            "time": 39.875
+        },
+        {
+            "kashi": "似",
+            "kana": "ニ",
+            "index": 0,
+            "length": 1,
+            "x": 25,
+            "y": 20,
+            "time": 40.0
+        },
+        {
+            "kashi": "た",
+            "kana": "タ",
+            "index": 0,
+            "length": 1,
+            "x": 26,
+            "y": 20,
+            "time": 40.125
+        },
+        {
+            "kashi": "形",
+            "kana": "カ",
+            "index": 0,
+            "length": 2,
+            "x": 27,
+            "y": 20,
+            "time": 40.25
+        },
+        {
+            "kashi": "形",
+            "kana": "タ",
+            "index": 1,
+            "length": 2,
+            "x": 28,
+            "y": 20,
+            "time": 40.375
+        },
+        {
+            "kashi": "見",
+            "kana": "ミ",
+            "index": 0,
+            "length": 1,
+            "x": 29,
+            "y": 20,
+            "time": 40.5
+        },
+        {
+            "kashi": "ば",
+            "kana": "バ",
+            "index": 0,
+            "length": 1,
+            "x": 31,
+            "y": 20,
+            "time": 40.625
+        },
+        {
+            "kashi": "か",
+            "kana": "カ",
+            "index": 0,
+            "length": 1,
+            "x": 32,
+            "y": 20,
+            "time": 40.75
+        },
+        {
+            "kashi": "り",
+            "kana": "リ",
+            "index": 0,
+            "length": 1,
+            "x": 33,
+            "y": 20,
+            "time": 40.875
+        },
+        {
+            "kashi": "流",
+            "kana": "ハ",
+            "index": 0,
+            "length": 1,
+            "x": 34,
+            "y": 20,
+            "time": 41.0
+        },
+        {
+            "kashi": "行",
+            "kana": "ヤ",
+            "index": 0,
+            "length": 1,
+            "x": 35,
+            "y": 20,
+            "time": 41.125
+        },
+        {
+            "kashi": "り",
+            "kana": "リ",
+            "index": 0,
+            "length": 1,
+            "x": 36,
+            "y": 20,
+            "time": 41.25
+        },
+        {
+            "kashi": "図",
+            "kana": "ハ",
+            "index": 0,
+            "length": 2,
+            "x": 31,
+            "y": 21,
+            "time": 41.375
+        },
+        {
+            "kashi": "図",
+            "kana": "カ",
+            "index": 1,
+            "length": 2,
+            "x": 32,
+            "y": 21,
+            "time": 41.5
+        },
+        {
+            "kashi": "り",
+            "kana": "リ",
+            "index": 0,
+            "length": 1,
+            "x": 33,
+            "y": 21,
+            "time": 41.625
+        },
+        {
+            "kashi": "囃",
+            "kana": "ハ",
+            "index": 0,
+            "length": 2,
+            "x": 34,
+            "y": 21,
+            "time": 41.75
+        },
+        {
+            "kashi": "囃",
+            "kana": "ヤ",
+            "index": 1,
+            "length": 2,
+            "x": 35,
+            "y": 21,
+            "time": 41.875
+        },
+        {
+            "kashi": "子",
+            "kana": "シ",
+            "index": 0,
+            "length": 1,
+            "x": 36,
+            "y": 21,
+            "time": 42.0
+        },
+        {
+            "kashi": "灯",
+            "kana": "ア",
+            "index": 0,
+            "length": 2,
+            "x": 31,
+            "y": 22,
+            "time": 42.125
+        },
+        {
+            "kashi": "灯",
+            "kana": "カ",
+            "index": 1,
+            "length": 2,
+            "x": 32,
+            "y": 22,
+            "time": 42.25
+        },
+        {
+            "kashi": "り",
+            "kana": "リ",
+            "index": 0,
+            "length": 1,
+            "x": 33,
+            "y": 22,
+            "time": 42.375
+        },
+        {
+            "kashi": "は",
+            "kana": "ハ",
+            "index": 0,
+            "length": 1,
+            "x": 34,
+            "y": 22,
+            "time": 42.5
+        },
+        {
+            "kashi": "ヤ",
+            "kana": "ヤ",
+            "index": 0,
+            "length": 1,
+            "x": 35,
+            "y": 22,
+            "time": 42.625
+        },
+        {
+            "kashi": "ジ",
+            "kana": "ジ",
+            "index": 0,
+            "length": 1,
+            "x": 36,
+            "y": 22,
+            "time": 42.75
+        },
+        {
+            "kashi": "と",
+            "kana": "ト",
+            "index": 0,
+            "length": 1,
+            "x": 37,
+            "y": 22,
+            "time": 42.875
+        },
+        {
+            "kashi": "科",
+            "kana": "カ",
+            "index": 0,
+            "length": 1,
+            "x": 38,
+            "y": 22,
+            "time": 43.0
+        },
+        {
+            "kashi": "し",
+            "kana": "シ",
+            "index": 0,
+            "length": 1,
+            "x": 39,
+            "y": 22,
+            "time": 43.125
+        },
+        {
+            "kashi": "て",
+            "kana": "テ",
+            "index": 0,
+            "length": 1,
+            "x": 40,
+            "y": 22,
+            "time": 43.25
+        },
+        {
+            "kashi": "退",
+            "kana": "ド",
+            "index": 0,
+            "length": 1,
+            "x": 37,
+            "y": 23,
+            "time": 43.375
+        },
+        {
+            "kashi": "か",
+            "kana": "カ",
+            "index": 0,
+            "length": 1,
+            "x": 38,
+            "y": 23,
+            "time": 43.5
+        },
+        {
+            "kashi": "し",
+            "kana": "シ",
+            "index": 0,
+            "length": 1,
+            "x": 39,
+            "y": 23,
+            "time": 43.625
+        },
+        {
+            "kashi": "て",
+            "kana": "テ",
+            "index": 0,
+            "length": 1,
+            "x": 40,
+            "y": 23,
+            "time": 43.75
+        },
+        {
+            "kashi": "孤",
+            "kana": "コ",
+            "index": 0,
+            "length": 1,
+            "x": 41,
+            "y": 23,
+            "time": 43.875
+        },
+        {
+            "kashi": "影",
+            "kana": "エ",
+            "index": 0,
+            "length": 2,
+            "x": 42,
+            "y": 23,
+            "time": 44.0
+        },
+        {
+            "kashi": "影",
+            "kana": "イ",
+            "index": 1,
+            "length": 2,
+            "x": 43,
+            "y": 23,
+            "time": 44.125
+        },
+        {
+            "kashi": "グ",
+            "kana": "グ",
+            "index": 0,
+            "length": 1,
+            "x": 44,
+            "y": 23,
+            "time": 44.25
+        },
+        {
+            "kashi": "グ",
+            "kana": "グ",
+            "index": 0,
+            "length": 1,
+            "x": 45,
+            "y": 23,
+            "time": 44.375
+        },
+        {
+            "kashi": "る",
+            "kana": "ル",
+            "index": 0,
+            "length": 1,
+            "x": 46,
+            "y": 23,
+            "time": 44.5
+        },
+        {
+            "kashi": "ご",
+            "kana": "ゴ",
+            "index": 0,
+            "length": 1,
+            "x": 41,
+            "y": 24,
+            "time": 44.625
+        },
+        {
+            "kashi": "悦",
+            "kana": "エ",
+            "index": 0,
+            "length": 2,
+            "x": 42,
+            "y": 24,
+            "time": 44.75
+        },
+        {
+            "kashi": "悦",
+            "kana": "ツ",
+            "index": 1,
+            "length": 2,
+            "x": 43,
+            "y": 24,
+            "time": 44.875
+        },
+        {
+            "kashi": "括",
+            "kana": "ク",
+            "index": 0,
+            "length": 2,
+            "x": 44,
+            "y": 24,
+            "time": 45.0
+        },
+        {
+            "kashi": "括",
+            "kana": "ク",
+            "index": 1,
+            "length": 2,
+            "x": 45,
+            "y": 24,
+            "time": 45.125
+        },
+        {
+            "kashi": "る",
+            "kana": "ル",
+            "index": 0,
+            "length": 1,
+            "x": 46,
+            "y": 24,
+            "time": 45.25
+        },
+        {
+            "kashi": "横",
+            "kana": "オ",
+            "index": 0,
+            "length": 2,
+            "x": 47,
+            "y": 24,
+            "time": 45.375
+        },
+        {
+            "kashi": "横",
+            "kana": "ウ",
+            "index": 1,
+            "length": 2,
+            "x": 48,
+            "y": 24,
+            "time": 45.5
+        },
+        {
+            "kashi": "議",
+            "kana": "ギ",
+            "index": 0,
+            "length": 1,
+            "x": 49,
+            "y": 24,
+            "time": 45.625
+        },
+        {
+            "kashi": "な",
+            "kana": "ナ",
+            "index": 0,
+            "length": 1,
+            "x": 50,
+            "y": 24,
+            "time": 45.75
+        },
+        {
+            "kashi": "並",
+            "kana": "ナ",
+            "index": 0,
+            "length": 2,
+            "x": 51,
+            "y": 24,
+            "time": 45.875
+        },
+        {
+            "kashi": "並",
+            "kana": "ミ",
+            "index": 1,
+            "length": 2,
+            "x": 52,
+            "y": 24,
+            "time": 46.0
+        },
+        {
+            "kashi": "グ",
+            "kana": "グ",
+            "index": 0,
+            "length": 1,
+            "x": 53,
+            "y": 24,
+            "time": 46.125
+        },
+        {
+            "kashi": "ル",
+            "kana": "ル",
+            "index": 0,
+            "length": 1,
+            "x": 54,
+            "y": 24,
+            "time": 46.25
+        },
+        {
+            "kashi": "ー",
+            "kana": "ー",
+            "index": 0,
+            "length": 1,
+            "x": 55,
+            "y": 24,
+            "time": 46.375
+        },
+        {
+            "kashi": "プ",
+            "kana": "プ",
+            "index": 0,
+            "length": 1,
+            "x": 56,
+            "y": 24,
+            "time": 46.5
+        },
+        {
+            "kashi": "越",
+            "kana": "コ",
+            "index": 0,
+            "length": 1,
+            "x": 41,
+            "y": 25,
+            "time": 46.625
+        },
+        {
+            "kashi": "え",
+            "kana": "エ",
+            "index": 0,
+            "length": 1,
+            "x": 42,
+            "y": 25,
+            "time": 46.75
+        },
+        {
+            "kashi": "継",
+            "kana": "ツ",
+            "index": 0,
+            "length": 1,
+            "x": 43,
+            "y": 25,
+            "time": 46.875
+        },
+        {
+            "kashi": "ぐ",
+            "kana": "グ",
+            "index": 0,
+            "length": 1,
+            "x": 44,
+            "y": 25,
+            "time": 47.0
+        },
+        {
+            "kashi": "来",
+            "kana": "ク",
+            "index": 0,
+            "length": 1,
+            "x": 45,
+            "y": 25,
+            "time": 47.125
+        },
+        {
+            "kashi": "る",
+            "kana": "ル",
+            "index": 0,
+            "length": 1,
+            "x": 46,
+            "y": 25,
+            "time": 47.25
+        },
+        {
+            "kashi": "大",
+            "kana": "オ",
+            "index": 0,
+            "length": 2,
+            "x": 47,
+            "y": 25,
+            "time": 47.375
+        },
+        {
+            "kashi": "大",
+            "kana": "オ",
+            "index": 1,
+            "length": 2,
+            "x": 48,
+            "y": 25,
+            "time": 47.5
+        },
+        {
+            "kashi": "き",
+            "kana": "キ",
+            "index": 0,
+            "length": 1,
+            "x": 49,
+            "y": 25,
+            "time": 47.625
+        },
+        {
+            "kashi": "な",
+            "kana": "ナ",
+            "index": 0,
+            "length": 1,
+            "x": 50,
+            "y": 25,
+            "time": 47.75
+        },
+        {
+            "kashi": "波",
+            "kana": "ナ",
+            "index": 0,
+            "length": 2,
+            "x": 51,
+            "y": 25,
+            "time": 47.875
+        },
+        {
+            "kashi": "波",
+            "kana": "ミ",
+            "index": 1,
+            "length": 2,
+            "x": 52,
+            "y": 25,
+            "time": 48.0
+        },
+        {
+            "kashi": "グ",
+            "kana": "グ",
+            "index": 0,
+            "length": 1,
+            "x": 53,
+            "y": 25,
+            "time": 48.125
+        },
+        {
+            "kashi": "ル",
+            "kana": "ル",
+            "index": 0,
+            "length": 1,
+            "x": 54,
+            "y": 25,
+            "time": 48.25
+        },
+        {
+            "kashi": "ー",
+            "kana": "ー",
+            "index": 0,
+            "length": 1,
+            "x": 55,
+            "y": 25,
+            "time": 48.375
+        },
+        {
+            "kashi": "ブ",
+            "kana": "ブ",
+            "index": 0,
+            "length": 1,
+            "x": 56,
+            "y": 25,
+            "time": 48.5
+        },
+        {
+            "kashi": "裂",
+            "kana": "サ",
+            "index": 0,
+            "length": 1,
+            "x": 52,
+            "y": 26,
+            "time": 48.75
+        },
+        {
+            "kashi": "く",
+            "kana": "ク",
+            "index": 0,
+            "length": 1,
+            "x": 53,
+            "y": 26,
+            "time": 48.875
+        },
+        {
+            "kashi": "ル",
+            "kana": "ル",
+            "index": 0,
+            "length": 1,
+            "x": 54,
+            "y": 26,
+            "time": 49.0
+        },
+        {
+            "kashi": "ー",
+            "kana": "ー",
+            "index": 0,
+            "length": 1,
+            "x": 55,
+            "y": 26,
+            "time": 49.125
+        },
+        {
+            "kashi": "プ",
+            "kana": "プ",
+            "index": 0,
+            "length": 1,
+            "x": 56,
+            "y": 26,
+            "time": 49.25
+        },
+        {
+            "kashi": "と",
+            "kana": "ト",
+            "index": 0,
+            "length": 1,
+            "x": 53,
+            "y": 27,
+            "time": 49.375
+        },
+        {
+            "kashi": "ル",
+            "kana": "ル",
+            "index": 0,
+            "length": 1,
+            "x": 54,
+            "y": 27,
+            "time": 49.5
+        },
+        {
+            "kashi": "ー",
+            "kana": "ー",
+            "index": 0,
+            "length": 1,
+            "x": 55,
+            "y": 27,
+            "time": 49.625
+        },
+        {
+            "kashi": "フ",
+            "kana": "フ",
+            "index": 0,
+            "length": 1,
+            "x": 56,
+            "y": 27,
+            "time": 49.75
+        },
+        {
+            "kashi": "突",
+            "kana": "ツ",
+            "index": 0,
+            "length": 1,
+            "x": 57,
+            "y": 27,
+            "time": 49.875
+        },
+        {
+            "kashi": "っ",
+            "kana": "ッ",
+            "index": 0,
+            "length": 1,
+            "x": 58,
+            "y": 27,
+            "time": 50.0
+        },
+        {
+            "kashi": "切",
+            "kana": "キ",
+            "index": 0,
+            "length": 1,
+            "x": 59,
+            "y": 27,
+            "time": 50.125
+        },
+        {
+            "kashi": "る",
+            "kana": "ル",
+            "index": 0,
+            "length": 1,
+            "x": 60,
+            "y": 27,
+            "time": 50.25
+        },
+        {
+            "kashi": "に",
+            "kana": "ニ",
+            "index": 0,
+            "length": 1,
+            "x": 61,
+            "y": 27,
+            "time": 50.375
+        },
+        {
+            "kashi": "尽",
+            "kana": "ツ",
+            "index": 0,
+            "length": 1,
+            "x": 57,
+            "y": 28,
+            "time": 50.5
+        },
+        {
+            "kashi": "き",
+            "kana": "キ",
+            "index": 0,
+            "length": 1,
+            "x": 59,
+            "y": 28,
+            "time": 50.625
+        },
+        {
+            "kashi": "る",
+            "kana": "ル",
+            "index": 0,
+            "length": 1,
+            "x": 60,
+            "y": 28,
+            "time": 50.75
+        },
+        {
+            "kashi": "若",
+            "kana": "ワ",
+            "index": 0,
+            "length": 2,
+            "x": 61,
+            "y": 28,
+            "time": 50.875
+        },
+        {
+            "kashi": "若",
+            "kana": "カ",
+            "index": 1,
+            "length": 2,
+            "x": 62,
+            "y": 28,
+            "time": 51.0
+        },
+        {
+            "kashi": "い",
+            "kana": "イ",
+            "index": 0,
+            "length": 1,
+            "x": 63,
+            "y": 28,
+            "time": 51.125
+        },
+        {
+            "kashi": "芽",
+            "kana": "メ",
+            "index": 0,
+            "length": 1,
+            "x": 64,
+            "y": 28,
+            "time": 51.25
+        },
+        {
+            "kashi": "が",
+            "kana": "ガ",
+            "index": 0,
+            "length": 1,
+            "x": 65,
+            "y": 28,
+            "time": 51.375
+        },
+        {
+            "kashi": "和",
+            "kana": "ワ",
+            "index": 0,
+            "length": 1,
+            "x": 61,
+            "y": 29,
+            "time": 51.5
+        },
+        {
+            "kashi": "解",
+            "kana": "カ",
+            "index": 0,
+            "length": 2,
+            "x": 62,
+            "y": 29,
+            "time": 51.625
+        },
+        {
+            "kashi": "解",
+            "kana": "イ",
+            "index": 1,
+            "length": 2,
+            "x": 63,
+            "y": 29,
+            "time": 51.75
+        },
+        {
+            "kashi": "願",
+            "kana": "ネ",
+            "index": 0,
+            "length": 2,
+            "x": 64,
+            "y": 29,
+            "time": 51.875
+        },
+        {
+            "kashi": "願",
+            "kana": "ガ",
+            "index": 1,
+            "length": 2,
+            "x": 65,
+            "y": 29,
+            "time": 52.0
+        },
+        {
+            "kashi": "ぃ",
+            "kana": "イ",
+            "index": 0,
+            "length": 1,
+            "x": 66,
+            "y": 29,
+            "time": 52.125
+        },
+        {
+            "kashi": "た",
+            "kana": "タ",
+            "index": 0,
+            "length": 1,
+            "x": 67,
+            "y": 29,
+            "time": 52.25
+        },
+        {
+            "kashi": "会",
+            "kana": "カ",
+            "index": 0,
+            "length": 2,
+            "x": 68,
+            "y": 29,
+            "time": 52.375
+        },
+        {
+            "kashi": "会",
+            "kana": "イ",
+            "index": 1,
+            "length": 2,
+            "x": 69,
+            "y": 29,
+            "time": 52.5
+        },
+        {
+            "kashi": "話",
+            "kana": "ワ",
+            "index": 0,
+            "length": 1,
+            "x": 61,
+            "y": 30,
+            "time": 52.625
+        },
+        {
+            "kashi": "欠",
+            "kana": "カ",
+            "index": 0,
+            "length": 1,
+            "x": 62,
+            "y": 30,
+            "time": 52.75
+        },
+        {
+            "kashi": "い",
+            "kana": "イ",
+            "index": 0,
+            "length": 1,
+            "x": 63,
+            "y": 30,
+            "time": 52.875
+        },
+        {
+            "kashi": "た",
+            "kana": "タ",
+            "index": 0,
+            "length": 1,
+            "x": 64,
+            "y": 30,
+            "time": 53.0
+        },
+        {
+            "kashi": "書",
+            "kana": "カ",
+            "index": 0,
+            "length": 1,
+            "x": 65,
+            "y": 30,
+            "time": 53.125
+        },
+        {
+            "kashi": "い",
+            "kana": "イ",
+            "index": 0,
+            "length": 1,
+            "x": 66,
+            "y": 30,
+            "time": 53.25
+        },
+        {
+            "kashi": "た",
+            "kana": "タ",
+            "index": 0,
+            "length": 1,
+            "x": 67,
+            "y": 30,
+            "time": 53.375
+        },
+        {
+            "kashi": "歌",
+            "kana": "カ",
+            "index": 0,
+            "length": 1,
+            "x": 68,
+            "y": 30,
+            "time": 53.5
+        },
+        {
+            "kashi": "意",
+            "kana": "イ",
+            "index": 0,
+            "length": 1,
+            "x": 69,
+            "y": 30,
+            "time": 53.625
+        },
+        {
+            "kashi": "輪",
+            "kana": "ワ",
+            "index": 0,
+            "length": 1,
+            "x": 61,
+            "y": 31,
+            "time": 53.75
+        },
+        {
+            "kashi": "か",
+            "kana": "カ",
+            "index": 0,
+            "length": 1,
+            "x": 62,
+            "y": 31,
+            "time": 53.875
+        },
+        {
+            "kashi": "い",
+            "kana": "イ",
+            "index": 0,
+            "length": 1,
+            "x": 63,
+            "y": 31,
+            "time": 54.0
+        },
+        {
+            "kashi": "高",
+            "kana": "タ",
+            "index": 0,
+            "length": 2,
+            "x": 64,
+            "y": 31,
+            "time": 54.125
+        },
+        {
+            "kashi": "高",
+            "kana": "カ",
+            "index": 1,
+            "length": 2,
+            "x": 65,
+            "y": 31,
+            "time": 54.25
+        },
+        {
+            "kashi": "い",
+            "kana": "イ",
+            "index": 0,
+            "length": 1,
+            "x": 66,
+            "y": 31,
+            "time": 54.375
+        },
+        {
+            "kashi": "壁",
+            "kana": "カ",
+            "index": 0,
+            "length": 2,
+            "x": 68,
+            "y": 31,
+            "time": 54.5
+        },
+        {
+            "kashi": "壁",
+            "kana": "ベ",
+            "index": 1,
+            "length": 2,
+            "x": 69,
+            "y": 31,
+            "time": 54.625
+        },
+        {
+            "kashi": "足",
+            "kana": "ア",
+            "index": 0,
+            "length": 1,
+            "x": 61,
+            "y": 32,
+            "time": 54.75
+        },
+        {
+            "kashi": "掻",
+            "kana": "ガ",
+            "index": 0,
+            "length": 1,
+            "x": 62,
+            "y": 32,
+            "time": 54.875
+        },
+        {
+            "kashi": "い",
+            "kana": "イ",
+            "index": 0,
+            "length": 1,
+            "x": 63,
+            "y": 32,
+            "time": 55.0
+        },
+        {
+            "kashi": "た",
+            "kana": "タ",
+            "index": 0,
+            "length": 1,
+            "x": 64,
+            "y": 32,
+            "time": 55.125
+        },
+        {
+            "kashi": "絵",
+            "kana": "カ",
+            "index": 0,
+            "length": 2,
+            "x": 65,
+            "y": 32,
+            "time": 55.25
+        },
+        {
+            "kashi": "絵",
+            "kana": "イ",
+            "index": 1,
+            "length": 2,
+            "x": 66,
+            "y": 32,
+            "time": 55.375
+        },
+        {
+            "kashi": "画",
+            "kana": "ガ",
+            "index": 0,
+            "length": 1,
+            "x": 68,
+            "y": 32,
+            "time": 55.5
+        },
+        {
+            "kashi": "へ",
+            "kana": "ヘ",
+            "index": 0,
+            "length": 1,
+            "x": 69,
+            "y": 32,
+            "time": 55.625
+        },
+        {
+            "kashi": "赤",
+            "kana": "ア",
+            "index": 0,
+            "length": 2,
+            "x": 61,
+            "y": 33,
+            "time": 55.75
+        },
+        {
+            "kashi": "赤",
+            "kana": "カ",
+            "index": 1,
+            "length": 2,
+            "x": 62,
+            "y": 33,
+            "time": 55.875
+        },
+        {
+            "kashi": "い",
+            "kana": "イ",
+            "index": 0,
+            "length": 1,
+            "x": 63,
+            "y": 33,
+            "time": 56.0
+        },
+        {
+            "kashi": "多",
+            "kana": "タ",
+            "index": 0,
+            "length": 1,
+            "x": 64,
+            "y": 33,
+            "time": 56.125
+        },
+        {
+            "kashi": "寡",
+            "kana": "カ",
+            "index": 0,
+            "length": 1,
+            "x": 65,
+            "y": 33,
+            "time": 56.25
+        },
+        {
+            "kashi": "活",
+            "kana": "イ",
+            "index": 0,
+            "length": 1,
+            "x": 66,
+            "y": 33,
+            "time": 56.375
+        },
+        {
+            "kashi": "か",
+            "kana": "カ",
+            "index": 0,
+            "length": 1,
+            "x": 68,
+            "y": 33,
+            "time": 56.5
+        },
+        {
+            "kashi": "し",
+            "kana": "シ",
+            "index": 0,
+            "length": 1,
+            "x": 69,
+            "y": 33,
+            "time": 56.625
+        },
+        {
+            "kashi": "工",
+            "kana": "コ",
+            "index": 0,
+            "length": 2,
+            "x": 70,
+            "y": 33,
+            "time": 56.75
+        },
+        {
+            "kashi": "工",
+            "kana": "ウ",
+            "index": 1,
+            "length": 2,
+            "x": 71,
+            "y": 33,
+            "time": 56.875
+        },
+        {
+            "kashi": "作",
+            "kana": "サ",
+            "index": 0,
+            "length": 2,
+            "x": 72,
+            "y": 33,
+            "time": 57.0
+        },
+        {
+            "kashi": "作",
+            "kana": "ク",
+            "index": 1,
+            "length": 2,
+            "x": 73,
+            "y": 33,
+            "time": 57.125
+        },
+        {
+            "kashi": "試",
+            "kana": "シ",
+            "index": 0,
+            "length": 1,
+            "x": 69,
+            "y": 34,
+            "time": 57.25
+        },
+        {
+            "kashi": "行",
+            "kana": "コ",
+            "index": 0,
+            "length": 2,
+            "x": 70,
+            "y": 34,
+            "time": 57.375
+        },
+        {
+            "kashi": "行",
+            "kana": "ウ",
+            "index": 1,
+            "length": 2,
+            "x": 71,
+            "y": 34,
+            "time": 57.5
+        },
+        {
+            "kashi": "錯",
+            "kana": "サ",
+            "index": 0,
+            "length": 2,
+            "x": 72,
+            "y": 34,
+            "time": 57.625
+        },
+        {
+            "kashi": "錯",
+            "kana": "ク",
+            "index": 1,
+            "length": 2,
+            "x": 73,
+            "y": 34,
+            "time": 57.75
+        },
+        {
+            "kashi": "誤",
+            "kana": "ゴ",
+            "index": 0,
+            "length": 1,
+            "x": 74,
+            "y": 34,
+            "time": 57.875
+        },
+        {
+            "kashi": "し",
+            "kana": "シ",
+            "index": 0,
+            "length": 1,
+            "x": 69,
+            "y": 35,
+            "time": 58.0
+        },
+        {
+            "kashi": "交",
+            "kana": "コ",
+            "index": 0,
+            "length": 2,
+            "x": 70,
+            "y": 35,
+            "time": 58.125
+        },
+        {
+            "kashi": "交",
+            "kana": "ウ",
+            "index": 1,
+            "length": 2,
+            "x": 71,
+            "y": 35,
+            "time": 58.25
+        },
+        {
+            "kashi": "錯",
+            "kana": "サ",
+            "index": 0,
+            "length": 2,
+            "x": 72,
+            "y": 35,
+            "time": 58.375
+        },
+        {
+            "kashi": "錯",
+            "kana": "ク",
+            "index": 1,
+            "length": 2,
+            "x": 73,
+            "y": 35,
+            "time": 58.5
+        },
+        {
+            "kashi": "越",
+            "kana": "ゴ",
+            "index": 0,
+            "length": 1,
+            "x": 74,
+            "y": 35,
+            "time": 58.625
+        },
+        {
+            "kashi": "し",
+            "kana": "シ",
+            "index": 0,
+            "length": 1,
+            "x": 75,
+            "y": 35,
+            "time": 58.75
+        },
+        {
+            "kashi": "の",
+            "kana": "ノ",
+            "index": 0,
+            "length": 1,
+            "x": 76,
+            "y": 35,
+            "time": 58.875
+        },
+        {
+            "kashi": "景",
+            "kana": "ケ",
+            "index": 0,
+            "length": 1,
+            "x": 77,
+            "y": 35,
+            "time": 59.0
+        },
+        {
+            "kashi": "色",
+            "kana": "シ",
+            "index": 0,
+            "length": 2,
+            "x": 78,
+            "y": 35,
+            "time": 59.125
+        },
+        {
+            "kashi": "色",
+            "kana": "キ",
+            "index": 1,
+            "length": 2,
+            "x": 79,
+            "y": 35,
+            "time": 59.25
+        },
+        {
+            "kashi": "古",
+            "kana": "コ",
+            "index": 0,
+            "length": 1,
+            "x": 74,
+            "y": 36,
+            "time": 59.375
+        },
+        {
+            "kashi": "詩",
+            "kana": "シ",
+            "index": 0,
+            "length": 1,
+            "x": 75,
+            "y": 36,
+            "time": 59.5
+        },
+        {
+            "kashi": "の",
+            "kana": "ノ",
+            "index": 0,
+            "length": 1,
+            "x": 76,
+            "y": 36,
+            "time": 59.625
+        },
+        {
+            "kashi": "原",
+            "kana": "ゲ",
+            "index": 0,
+            "length": 2,
+            "x": 77,
+            "y": 36,
+            "time": 59.75
+        },
+        {
+            "kashi": "原",
+            "kana": "ン",
+            "index": 1,
+            "length": 2,
+            "x": 78,
+            "y": 36,
+            "time": 59.875
+        },
+        {
+            "kashi": "義",
+            "kana": "ギ",
+            "index": 0,
+            "length": 1,
+            "x": 79,
+            "y": 36,
+            "time": 60.0
+        },
+        {
+            "kashi": "ぶ",
+            "kana": "ブ",
+            "index": 0,
+            "length": 1,
+            "x": 80,
+            "y": 36,
+            "time": 60.125
+        },
+        {
+            "kashi": "る",
+            "kana": "ル",
+            "index": 0,
+            "length": 1,
+            "x": 81,
+            "y": 36,
+            "time": 60.25
+        },
+        {
+            "kashi": "清",
+            "kana": "キ",
+            "index": 0,
+            "length": 2,
+            "x": 82,
+            "y": 36,
+            "time": 60.375
+        },
+        {
+            "kashi": "清",
+            "kana": "ヨ",
+            "index": 1,
+            "length": 2,
+            "x": 83,
+            "y": 36,
+            "time": 60.5
+        },
+        {
+            "kashi": "き",
+            "kana": "キ",
+            "index": 0,
+            "length": 1,
+            "x": 84,
+            "y": 36,
+            "time": 60.625
+        },
+        {
+            "kashi": "古",
+            "kana": "フ",
+            "index": 0,
+            "length": 2,
+            "x": 80,
+            "y": 37,
+            "time": 60.75
+        },
+        {
+            "kashi": "古",
+            "kana": "ル",
+            "index": 1,
+            "length": 2,
+            "x": 81,
+            "y": 37,
+            "time": 60.875
+        },
+        {
+            "kashi": "き",
+            "kana": "キ",
+            "index": 0,
+            "length": 1,
+            "x": 82,
+            "y": 37,
+            "time": 61.0
+        },
+        {
+            "kashi": "良",
+            "kana": "ヨ",
+            "index": 0,
+            "length": 1,
+            "x": 83,
+            "y": 37,
+            "time": 61.125
+        },
+        {
+            "kashi": "き",
+            "kana": "キ",
+            "index": 0,
+            "length": 1,
+            "x": 84,
+            "y": 37,
+            "time": 61.25
+        },
+        {
+            "kashi": "は",
+            "kana": "ハ",
+            "index": 0,
+            "length": 1,
+            "x": 85,
+            "y": 37,
+            "time": 61.375
+        },
+        {
+            "kashi": "無",
+            "kana": "ナ",
+            "index": 0,
+            "length": 1,
+            "x": 86,
+            "y": 37,
+            "time": 61.5
+        },
+        {
+            "kashi": "し",
+            "kana": "シ",
+            "index": 0,
+            "length": 1,
+            "x": 87,
+            "y": 37,
+            "time": 61.625
+        },
+        {
+            "kashi": "話",
+            "kana": "ハ",
+            "index": 0,
+            "length": 3,
+            "x": 85,
+            "y": 38,
+            "time": 61.75
+        },
+        {
+            "kashi": "話",
+            "kana": "ナ",
+            "index": 1,
+            "length": 3,
+            "x": 86,
+            "y": 38,
+            "time": 61.875
+        },
+        {
+            "kashi": "話",
+            "kana": "シ",
+            "index": 2,
+            "length": 3,
+            "x": 87,
+            "y": 38,
+            "time": 62.0
+        },
+        {
+            "kashi": "逸",
+            "kana": "ソ",
+            "index": 0,
+            "length": 1,
+            "x": 88,
+            "y": 38,
+            "time": 62.125
+        },
+        {
+            "kashi": "れ",
+            "kana": "レ",
+            "index": 0,
+            "length": 1,
+            "x": 89,
+            "y": 38,
+            "time": 62.25
+        },
+        {
+            "kashi": "て",
+            "kana": "テ",
+            "index": 0,
+            "length": 1,
+            "x": 91,
+            "y": 38,
+            "time": 62.375
+        },
+        {
+            "kashi": "引",
+            "kana": "イ",
+            "index": 0,
+            "length": 2,
+            "x": 92,
+            "y": 38,
+            "time": 62.5
+        },
+        {
+            "kashi": "引",
+            "kana": "ン",
+            "index": 1,
+            "length": 2,
+            "x": 93,
+            "y": 38,
+            "time": 62.625
+        },
+        {
+            "kashi": "喩",
+            "kana": "ユ",
+            "index": 0,
+            "length": 1,
+            "x": 94,
+            "y": 38,
+            "time": 62.75
+        },
+        {
+            "kashi": "昔",
+            "kana": "ム",
+            "index": 0,
+            "length": 3,
+            "x": 96,
+            "y": 38,
+            "time": 62.875
+        },
+        {
+            "kashi": "昔",
+            "kana": "カ",
+            "index": 1,
+            "length": 3,
+            "x": 97,
+            "y": 38,
+            "time": 63.0
+        },
+        {
+            "kashi": "昔",
+            "kana": "シ",
+            "index": 2,
+            "length": 3,
+            "x": 98,
+            "y": 38,
+            "time": 63.125
+        },
+        {
+            "kashi": "は",
+            "kana": "ハ",
+            "index": 0,
+            "length": 1,
+            "x": 99,
+            "y": 38,
+            "time": 63.25
+        },
+        {
+            "kashi": "そ",
+            "kana": "ソ",
+            "index": 0,
+            "length": 1,
+            "x": 88,
+            "y": 39,
+            "time": 63.5
+        },
+        {
+            "kashi": "れ",
+            "kana": "レ",
+            "index": 0,
+            "length": 1,
+            "x": 89,
+            "y": 39,
+            "time": 63.625
+        },
+        {
+            "kashi": "っ",
+            "kana": "ッ",
+            "index": 0,
+            "length": 1,
+            "x": 90,
+            "y": 39,
+            "time": 63.75
+        },
+        {
+            "kashi": "て",
+            "kana": "テ",
+            "index": 0,
+            "length": 1,
+            "x": 91,
+            "y": 39,
+            "time": 63.875
+        },
+        {
+            "kashi": "い",
+            "kana": "イ",
+            "index": 0,
+            "length": 1,
+            "x": 92,
+            "y": 39,
+            "time": 64.0
+        },
+        {
+            "kashi": "わ",
+            "kana": "ワ",
+            "index": 0,
+            "length": 1,
+            "x": 93,
+            "y": 39,
+            "time": 64.125
+        },
+        {
+            "kashi": "ゆ",
+            "kana": "ユ",
+            "index": 0,
+            "length": 1,
+            "x": 94,
+            "y": 39,
+            "time": 64.25
+        },
+        {
+            "kashi": "る",
+            "kana": "ル",
+            "index": 0,
+            "length": 1,
+            "x": 95,
+            "y": 39,
+            "time": 64.375
+        },
+        {
+            "kashi": "居",
+            "kana": "イ",
+            "index": 0,
+            "length": 1,
+            "x": 92,
+            "y": 40,
+            "time": 64.5
+        },
+        {
+            "kashi": "渡",
+            "kana": "ワ",
+            "index": 0,
+            "length": 2,
+            "x": 93,
+            "y": 40,
+            "time": 64.625
+        },
+        {
+            "kashi": "渡",
+            "kana": "タ",
+            "index": 1,
+            "length": 2,
+            "x": 94,
+            "y": 40,
+            "time": 64.75
+        },
+        {
+            "kashi": "る",
+            "kana": "ル",
+            "index": 0,
+            "length": 1,
+            "x": 95,
+            "y": 40,
+            "time": 64.875
+        },
+        {
+            "kashi": "浪",
+            "kana": "ロ",
+            "index": 0,
+            "length": 2,
+            "x": 96,
+            "y": 40,
+            "time": 65.0
+        },
+        {
+            "kashi": "浪",
+            "kana": "ウ",
+            "index": 1,
+            "length": 2,
+            "x": 97,
+            "y": 40,
+            "time": 65.125
+        },
+        {
+            "kashi": "界",
+            "kana": "カ",
+            "index": 0,
+            "length": 2,
+            "x": 98,
+            "y": 40,
+            "time": 65.25
+        },
+        {
+            "kashi": "界",
+            "kana": "イ",
+            "index": 1,
+            "length": 2,
+            "x": 99,
+            "y": 40,
+            "time": 65.375
+        },
+        {
+            "kashi": "素",
+            "kana": "ソ",
+            "index": 0,
+            "length": 1,
+            "x": 100,
+            "y": 40,
+            "time": 65.5
+        },
+        {
+            "kashi": "義",
+            "kana": "ギ",
+            "index": 0,
+            "length": 1,
+            "x": 101,
+            "y": 40,
+            "time": 65.625
+        },
+        {
+            "kashi": "な",
+            "kana": "ナ",
+            "index": 0,
+            "length": 1,
+            "x": 102,
+            "y": 40,
+            "time": 65.75
+        },
+        {
+            "kashi": "彼",
+            "kana": "カ",
+            "index": 0,
+            "length": 2,
+            "x": 103,
+            "y": 40,
+            "time": 65.875
+        },
+        {
+            "kashi": "彼",
+            "kana": "レ",
+            "index": 1,
+            "length": 2,
+            "x": 104,
+            "y": 40,
+            "time": 66.0
+        },
+        {
+            "kashi": "未",
+            "kana": "イ",
+            "index": 0,
+            "length": 2,
+            "x": 92,
+            "y": 41,
+            "time": 66.25
+        },
+        {
+            "kashi": "未",
+            "kana": "マ",
+            "index": 1,
+            "length": 2,
+            "x": 93,
+            "y": 41,
+            "time": 66.375
+        },
+        {
+            "kashi": "だ",
+            "kana": "ダ",
+            "index": 0,
+            "length": 1,
+            "x": 94,
+            "y": 41,
+            "time": 66.625
+        },
+        {
+            "kashi": "流",
+            "kana": "ル",
+            "index": 0,
+            "length": 1,
+            "x": 95,
+            "y": 41,
+            "time": 66.75
+        },
+        {
+            "kashi": "浪",
+            "kana": "ロ",
+            "index": 0,
+            "length": 2,
+            "x": 96,
+            "y": 41,
+            "time": 66.875
+        },
+        {
+            "kashi": "浪",
+            "kana": "ウ",
+            "index": 1,
+            "length": 2,
+            "x": 97,
+            "y": 41,
+            "time": 67.0
+        },
+        {
+            "kashi": "か",
+            "kana": "カ",
+            "index": 0,
+            "length": 1,
+            "x": 98,
+            "y": 41,
+            "time": 67.125
+        },
+        {
+            "kashi": "急",
+            "kana": "イ",
+            "index": 0,
+            "length": 2,
+            "x": 99,
+            "y": 41,
+            "time": 67.25
+        },
+        {
+            "kashi": "急",
+            "kana": "ソ",
+            "index": 1,
+            "length": 2,
+            "x": 100,
+            "y": 41,
+            "time": 67.375
+        },
+        {
+            "kashi": "ぎ",
+            "kana": "ギ",
+            "index": 0,
+            "length": 1,
+            "x": 101,
+            "y": 41,
+            "time": 67.625
+        },
+        {
+            "kashi": "な",
+            "kana": "ナ",
+            "index": 0,
+            "length": 1,
+            "x": 102,
+            "y": 41,
+            "time": 67.75
+        },
+        {
+            "kashi": "加",
+            "kana": "カ",
+            "index": 0,
+            "length": 1,
+            "x": 103,
+            "y": 41,
+            "time": 67.875
+        },
+        {
+            "kashi": "齢",
+            "kana": "レ",
+            "index": 0,
+            "length": 2,
+            "x": 104,
+            "y": 41,
+            "time": 68.0
+        },
+        {
+            "kashi": "齢",
+            "kana": "イ",
+            "index": 1,
+            "length": 2,
+            "x": 92,
+            "y": 42,
+            "time": 68.25
+        },
+        {
+            "kashi": "間",
+            "kana": "マ",
+            "index": 0,
+            "length": 1,
+            "x": 93,
+            "y": 42,
+            "time": 68.375
+        },
+        {
+            "kashi": "怠",
+            "kana": "ダ",
+            "index": 0,
+            "length": 2,
+            "x": 94,
+            "y": 42,
+            "time": 68.625
+        },
+        {
+            "kashi": "怠",
+            "kana": "ル",
+            "index": 1,
+            "length": 2,
+            "x": 95,
+            "y": 42,
+            "time": 68.75
+        },
+        {
+            "kashi": "癆",
+            "kana": "ロ",
+            "index": 0,
+            "length": 2,
+            "x": 96,
+            "y": 42,
+            "time": 69.0
+        },
+        {
+            "kashi": "癆",
+            "kana": "ウ",
+            "index": 1,
+            "length": 2,
+            "x": 97,
+            "y": 42,
+            "time": 69.125
+        },
+        {
+            "kashi": "痎",
+            "kana": "ガ",
+            "index": 0,
+            "length": 2,
+            "x": 98,
+            "y": 42,
+            "time": 69.25
+        },
+        {
+            "kashi": "痎",
+            "kana": "イ",
+            "index": 1,
+            "length": 2,
+            "x": 99,
+            "y": 42,
+            "time": 69.375
+        },
+        {
+            "kashi": "時",
+            "kana": "ト",
+            "index": 0,
+            "length": 2,
+            "x": 100,
+            "y": 42,
+            "time": 69.5
+        },
+        {
+            "kashi": "時",
+            "kana": "キ",
+            "index": 1,
+            "length": 2,
+            "x": 101,
+            "y": 42,
+            "time": 69.625
+        },
+        {
+            "kashi": "流",
+            "kana": "ナ",
+            "index": 0,
+            "length": 2,
+            "x": 102,
+            "y": 42,
+            "time": 69.75
+        },
+        {
+            "kashi": "流",
+            "kana": "ガ",
+            "index": 1,
+            "length": 2,
+            "x": 103,
+            "y": 42,
+            "time": 69.875
+        },
+        {
+            "kashi": "れ",
+            "kana": "レ",
+            "index": 0,
+            "length": 1,
+            "x": 104,
+            "y": 42,
+            "time": 70.0
+        },
+        {
+            "kashi": "今",
+            "kana": "イ",
+            "index": 0,
+            "length": 2,
+            "x": 92,
+            "y": 43,
+            "time": 70.25
+        },
+        {
+            "kashi": "今",
+            "kana": "マ",
+            "index": 1,
+            "length": 2,
+            "x": 93,
+            "y": 43,
+            "time": 70.375
+        },
+        {
+            "kashi": "だ",
+            "kana": "ダ",
+            "index": 0,
+            "length": 1,
+            "x": 94,
+            "y": 43,
+            "time": 70.625
+        },
+        {
+            "kashi": "る",
+            "kana": "ル",
+            "index": 0,
+            "length": 1,
+            "x": 95,
+            "y": 43,
+            "time": 70.75
+        },
+        {
+            "kashi": "老",
+            "kana": "ロ",
+            "index": 0,
+            "length": 2,
+            "x": 96,
+            "y": 43,
+            "time": 71.0
+        },
+        {
+            "kashi": "老",
+            "kana": "ウ",
+            "index": 1,
+            "length": 2,
+            "x": 97,
+            "y": 43,
+            "time": 71.125
+        },
+        {
+            "kashi": "害",
+            "kana": "ガ",
+            "index": 0,
+            "length": 2,
+            "x": 98,
+            "y": 43,
+            "time": 71.25
+        },
+        {
+            "kashi": "害",
+            "kana": "イ",
+            "index": 1,
+            "length": 2,
+            "x": 99,
+            "y": 43,
+            "time": 71.375
+        },
+        {
+            "kashi": "ど",
+            "kana": "ド",
+            "index": 0,
+            "length": 1,
+            "x": 100,
+            "y": 43,
+            "time": 71.5
+        },
+        {
+            "kashi": "き",
+            "kana": "キ",
+            "index": 0,
+            "length": 1,
+            "x": 101,
+            "y": 43,
+            "time": 71.75
+        },
+        {
+            "kashi": "や",
+            "kana": "ヤ",
+            "index": 0,
+            "length": 1,
+            "x": 102,
+            "y": 43,
+            "time": 71.875
+        },
+        {
+            "kashi": "が",
+            "kana": "ガ",
+            "index": 0,
+            "length": 1,
+            "x": 103,
+            "y": 43,
+            "time": 72.0
+        },
+        {
+            "kashi": "れ",
+            "kana": "レ",
+            "index": 0,
+            "length": 1,
+            "x": 104,
+            "y": 43,
+            "time": 72.125
+        },
+        {
+            "kashi": "時",
+            "kana": "ト",
+            "index": 0,
+            "length": 2,
+            "x": 100,
+            "y": 44,
+            "time": 72.75
+        },
+        {
+            "kashi": "時",
+            "kana": "キ",
+            "index": 1,
+            "length": 2,
+            "x": 101,
+            "y": 44,
+            "time": 72.83333333333333
+        },
+        {
+            "kashi": "や",
+            "kana": "ヤ",
+            "index": 0,
+            "length": 1,
+            "x": 102,
+            "y": 44,
+            "time": 72.91666666666666
+        },
+        {
+            "kashi": "が",
+            "kana": "ガ",
+            "index": 0,
+            "length": 1,
+            "x": 103,
+            "y": 44,
+            "time": 73.0
+        },
+        {
+            "kashi": "て",
+            "kana": "テ",
+            "index": 0,
+            "length": 1,
+            "x": 104,
+            "y": 44,
+            "time": 73.08333333333333
+        },
+        {
+            "kashi": "死",
+            "kana": "シ",
+            "index": 0,
+            "length": 1,
+            "x": 105,
+            "y": 44,
+            "time": 73.16666666666666
+        },
+        {
+            "kashi": "を",
+            "kana": "ヲ",
+            "index": 0,
+            "length": 1,
+            "x": 106,
+            "y": 44,
+            "time": 73.25
+        },
+        {
+            "kashi": "超",
+            "kana": "コ",
+            "index": 0,
+            "length": 1,
+            "x": 107,
+            "y": 44,
+            "time": 73.33333333333333
+        },
+        {
+            "kashi": "え",
+            "kana": "エ",
+            "index": 0,
+            "length": 1,
+            "x": 108,
+            "y": 44,
+            "time": 73.41666666666666
+        },
+        {
+            "kashi": "星",
+            "kana": "ホ",
+            "index": 0,
+            "length": 2,
+            "x": 104,
+            "y": 45,
+            "time": 73.5
+        },
+        {
+            "kashi": "星",
+            "kana": "シ",
+            "index": 1,
+            "length": 2,
+            "x": 105,
+            "y": 45,
+            "time": 73.58333333333333
+        },
+        {
+            "kashi": "を",
+            "kana": "ヲ",
+            "index": 0,
+            "length": 1,
+            "x": 106,
+            "y": 45,
+            "time": 73.66666666666666
+        },
+        {
+            "kashi": "超",
+            "kana": "コ",
+            "index": 0,
+            "length": 1,
+            "x": 107,
+            "y": 45,
+            "time": 73.75
+        },
+        {
+            "kashi": "え",
+            "kana": "エ",
+            "index": 0,
+            "length": 1,
+            "x": 108,
+            "y": 45,
+            "time": 73.83333333333333
+        },
+        {
+            "kashi": "大",
+            "kana": "タ",
+            "index": 0,
+            "length": 2,
+            "x": 109,
+            "y": 45,
+            "time": 73.91666666666666
+        },
+        {
+            "kashi": "大",
+            "kana": "イ",
+            "index": 1,
+            "length": 2,
+            "x": 110,
+            "y": 45,
+            "time": 74.0
+        },
+        {
+            "kashi": "気",
+            "kana": "キ",
+            "index": 0,
+            "length": 1,
+            "x": 111,
+            "y": 45,
+            "time": 74.08333333333333
+        },
+        {
+            "kashi": "肥",
+            "kana": "コ",
+            "index": 0,
+            "length": 1,
+            "x": 107,
+            "y": 46,
+            "time": 74.16666666666666
+        },
+        {
+            "kashi": "え",
+            "kana": "エ",
+            "index": 0,
+            "length": 1,
+            "x": 108,
+            "y": 46,
+            "time": 74.25
+        },
+        {
+            "kashi": "た",
+            "kana": "タ",
+            "index": 0,
+            "length": 1,
+            "x": 109,
+            "y": 46,
+            "time": 74.33333333333333
+        },
+        {
+            "kashi": "生",
+            "kana": "イ",
+            "index": 0,
+            "length": 1,
+            "x": 110,
+            "y": 46,
+            "time": 74.41666666666666
+        },
+        {
+            "kashi": "き",
+            "kana": "キ",
+            "index": 0,
+            "length": 1,
+            "x": 111,
+            "y": 46,
+            "time": 74.5
+        },
+        {
+            "kashi": "の",
+            "kana": "ノ",
+            "index": 0,
+            "length": 1,
+            "x": 112,
+            "y": 46,
+            "time": 74.58333333333333
+        },
+        {
+            "kashi": "子",
+            "kana": "コ",
+            "index": 0,
+            "length": 1,
+            "x": 113,
+            "y": 46,
+            "time": 74.66666666666666
+        },
+        {
+            "kashi": "得",
+            "kana": "エ",
+            "index": 0,
+            "length": 1,
+            "x": 108,
+            "y": 47,
+            "time": 74.75
+        },
+        {
+            "kashi": "体",
+            "kana": "タ",
+            "index": 0,
+            "length": 2,
+            "x": 109,
+            "y": 47,
+            "time": 74.83333333333333
+        },
+        {
+            "kashi": "体",
+            "kana": "イ",
+            "index": 1,
+            "length": 2,
+            "x": 110,
+            "y": 47,
+            "time": 74.91666666666666
+        },
+        {
+            "kashi": "疑",
+            "kana": "ギ",
+            "index": 0,
+            "length": 1,
+            "x": 111,
+            "y": 47,
+            "time": 75.0
+        },
+        {
+            "kashi": "の",
+            "kana": "ノ",
+            "index": 0,
+            "length": 1,
+            "x": 112,
+            "y": 47,
+            "time": 75.08333333333333
+        },
+        {
+            "kashi": "後",
+            "kana": "コ",
+            "index": 0,
+            "length": 2,
+            "x": 113,
+            "y": 47,
+            "time": 75.16666666666666
+        },
+        {
+            "kashi": "後",
+            "kana": "ウ",
+            "index": 1,
+            "length": 2,
+            "x": 114,
+            "y": 47,
+            "time": 75.25
+        },
+        {
+            "kashi": "納",
+            "kana": "ノ",
+            "index": 0,
+            "length": 2,
+            "x": 115,
+            "y": 47,
+            "time": 75.33333333333333
+        },
+        {
+            "kashi": "納",
+            "kana": "ウ",
+            "index": 1,
+            "length": 2,
+            "x": 116,
+            "y": 47,
+            "time": 75.41666666666666
+        },
+        {
+            "kashi": "対",
+            "kana": "タ",
+            "index": 0,
+            "length": 2,
+            "x": 109,
+            "y": 48,
+            "time": 75.5
+        },
+        {
+            "kashi": "対",
+            "kana": "イ",
+            "index": 1,
+            "length": 2,
+            "x": 110,
+            "y": 48,
+            "time": 75.58333333333333
+        },
+        {
+            "kashi": "菌",
+            "kana": "キ",
+            "index": 0,
+            "length": 2,
+            "x": 111,
+            "y": 48,
+            "time": 75.66666666666666
+        },
+        {
+            "kashi": "菌",
+            "kana": "ン",
+            "index": 1,
+            "length": 2,
+            "x": 112,
+            "y": 48,
+            "time": 75.75
+        },
+        {
+            "kashi": "効",
+            "kana": "コ",
+            "index": 0,
+            "length": 2,
+            "x": 113,
+            "y": 48,
+            "time": 75.83333333333333
+        },
+        {
+            "kashi": "効",
+            "kana": "ウ",
+            "index": 1,
+            "length": 2,
+            "x": 114,
+            "y": 48,
+            "time": 75.91666666666666
+        },
+        {
+            "kashi": "能",
+            "kana": "ノ",
+            "index": 0,
+            "length": 2,
+            "x": 115,
+            "y": 48,
+            "time": 76.0
+        },
+        {
+            "kashi": "能",
+            "kana": "ウ",
+            "index": 1,
+            "length": 2,
+            "x": 116,
+            "y": 48,
+            "time": 76.125
+        },
+        {
+            "kashi": "湧",
+            "kana": "ワ",
+            "index": 0,
+            "length": 1,
+            "x": 117,
+            "y": 48,
+            "time": 76.25
+        },
+        {
+            "kashi": "く",
+            "kana": "ク",
+            "index": 0,
+            "length": 1,
+            "x": 118,
+            "y": 48,
+            "time": 76.375
+        },
+        {
+            "kashi": "異",
+            "kana": "イ",
+            "index": 0,
+            "length": 1,
+            "x": 110,
+            "y": 49,
+            "time": 76.5
+        },
+        {
+            "kashi": "金",
+            "kana": "キ",
+            "index": 0,
+            "length": 2,
+            "x": 111,
+            "y": 49,
+            "time": 76.625
+        },
+        {
+            "kashi": "金",
+            "kana": "ン",
+            "index": 1,
+            "length": 2,
+            "x": 112,
+            "y": 49,
+            "time": 76.6875
+        },
+        {
+            "kashi": "鉱",
+            "kana": "コ",
+            "index": 0,
+            "length": 2,
+            "x": 113,
+            "y": 49,
+            "time": 76.75
+        },
+        {
+            "kashi": "鉱",
+            "kana": "ウ",
+            "index": 1,
+            "length": 2,
+            "x": 114,
+            "y": 49,
+            "time": 76.8125
+        },
+        {
+            "kashi": "の",
+            "kana": "ノ",
+            "index": 0,
+            "length": 1,
+            "x": 115,
+            "y": 49,
+            "time": 76.875
+        },
+        {
+            "kashi": "異",
+            "kana": "イ",
+            "index": 0,
+            "length": 1,
+            "x": 116,
+            "y": 49,
+            "time": 77.0
+        },
+        {
+            "kashi": "惑",
+            "kana": "ワ",
+            "index": 0,
+            "length": 2,
+            "x": 117,
+            "y": 49,
+            "time": 77.125
+        },
+        {
+            "kashi": "惑",
+            "kana": "ク",
+            "index": 1,
+            "length": 2,
+            "x": 118,
+            "y": 49,
+            "time": 77.25
+        },
+        {
+            "kashi": "星",
+            "kana": "セ",
+            "index": 0,
+            "length": 2,
+            "x": 119,
+            "y": 49,
+            "time": 77.375
+        },
+        {
+            "kashi": "星",
+            "kana": "イ",
+            "index": 1,
+            "length": 2,
+            "x": 110,
+            "y": 50,
+            "time": 77.4375
+        },
+        {
+            "kashi": "均",
+            "kana": "キ",
+            "index": 0,
+            "length": 2,
+            "x": 111,
+            "y": 50,
+            "time": 77.625
+        },
+        {
+            "kashi": "均",
+            "kana": "ン",
+            "index": 1,
+            "length": 2,
+            "x": 112,
+            "y": 50,
+            "time": 77.6875
+        },
+        {
+            "kashi": "衡",
+            "kana": "コ",
+            "index": 0,
+            "length": 2,
+            "x": 113,
+            "y": 50,
+            "time": 77.75
+        },
+        {
+            "kashi": "衡",
+            "kana": "ウ",
+            "index": 1,
+            "length": 2,
+            "x": 114,
+            "y": 50,
+            "time": 77.8125
+        },
+        {
+            "kashi": "迷",
+            "kana": "メ",
+            "index": 0,
+            "length": 2,
+            "x": 115,
+            "y": 50,
+            "time": 77.875
+        },
+        {
+            "kashi": "迷",
+            "kana": "イ",
+            "index": 1,
+            "length": 2,
+            "x": 116,
+            "y": 50,
+            "time": 77.9375
+        },
+        {
+            "kashi": "惑",
+            "kana": "ワ",
+            "index": 0,
+            "length": 2,
+            "x": 117,
+            "y": 50,
+            "time": 78.0
+        },
+        {
+            "kashi": "惑",
+            "kana": "ク",
+            "index": 1,
+            "length": 2,
+            "x": 118,
+            "y": 50,
+            "time": 78.125
+        },
+        {
+            "kashi": "税",
+            "kana": "ゼ",
+            "index": 0,
+            "length": 2,
+            "x": 119,
+            "y": 50,
+            "time": 78.25
+        },
+        {
+            "kashi": "税",
+            "kana": "イ",
+            "index": 1,
+            "length": 2,
+            "x": 110,
+            "y": 51,
+            "time": 78.3125
+        },
+        {
+            "kashi": "金",
+            "kana": "キ",
+            "index": 0,
+            "length": 2,
+            "x": 111,
+            "y": 51,
+            "time": 78.5
+        },
+        {
+            "kashi": "金",
+            "kana": "ン",
+            "index": 1,
+            "length": 2,
+            "x": 112,
+            "y": 51,
+            "time": 78.5625
+        },
+        {
+            "kashi": "乞",
+            "kana": "コ",
+            "index": 0,
+            "length": 1,
+            "x": 113,
+            "y": 51,
+            "time": 78.75
+        },
+        {
+            "kashi": "う",
+            "kana": "ウ",
+            "index": 0,
+            "length": 1,
+            "x": 114,
+            "y": 51,
+            "time": 78.8125
+        },
+        {
+            "kashi": "芽",
+            "kana": "メ",
+            "index": 0,
+            "length": 1,
+            "x": 115,
+            "y": 51,
+            "time": 79.0
+        },
+        {
+            "kashi": "い",
+            "kana": "イ",
+            "index": 0,
+            "length": 1,
+            "x": 116,
+            "y": 51,
+            "time": 79.0625
+        },
+        {
+            "kashi": "わ",
+            "kana": "ワ",
+            "index": 0,
+            "length": 1,
+            "x": 117,
+            "y": 51,
+            "time": 79.25
+        },
+        {
+            "kashi": "く",
+            "kana": "ク",
+            "index": 0,
+            "length": 1,
+            "x": 118,
+            "y": 51,
+            "time": 79.3125
+        },
+        {
+            "kashi": "最",
+            "kana": "サ",
+            "index": 0,
+            "length": 2,
+            "x": 119,
+            "y": 51,
+            "time": 79.375
+        },
+        {
+            "kashi": "最",
+            "kana": "イ",
+            "index": 1,
+            "length": 2,
+            "x": 110,
+            "y": 52,
+            "time": 79.4375
+        },
+        {
+            "kashi": "近",
+            "kana": "キ",
+            "index": 0,
+            "length": 2,
+            "x": 111,
+            "y": 52,
+            "time": 79.5
+        },
+        {
+            "kashi": "近",
+            "kana": "ン",
+            "index": 1,
+            "length": 2,
+            "x": 112,
+            "y": 52,
+            "time": 79.5625
+        },
+        {
+            "kashi": "公",
+            "kana": "コ",
+            "index": 0,
+            "length": 2,
+            "x": 113,
+            "y": 52,
+            "time": 79.75
+        },
+        {
+            "kashi": "公",
+            "kana": "ウ",
+            "index": 1,
+            "length": 2,
+            "x": 114,
+            "y": 52,
+            "time": 79.8125
+        },
+        {
+            "kashi": "命",
+            "kana": "メ",
+            "index": 0,
+            "length": 2,
+            "x": 115,
+            "y": 52,
+            "time": 79.875
+        },
+        {
+            "kashi": "命",
+            "kana": "イ",
+            "index": 1,
+            "length": 2,
+            "x": 116,
+            "y": 52,
+            "time": 79.9375
+        },
+        {
+            "kashi": "割",
+            "kana": "サ",
+            "index": 0,
+            "length": 1,
+            "x": 117,
+            "y": 52,
+            "time": 80.0
+        },
+        {
+            "kashi": "く",
+            "kana": "ク",
+            "index": 0,
+            "length": 1,
+            "x": 118,
+            "y": 52,
+            "time": 80.125
+        },
+        {
+            "kashi": "際",
+            "kana": "サ",
+            "index": 0,
+            "length": 2,
+            "x": 119,
+            "y": 52,
+            "time": 80.25
+        },
+        {
+            "kashi": "際",
+            "kana": "イ",
+            "index": 1,
+            "length": 2,
+            "x": 110,
+            "y": 53,
+            "time": 80.3125
+        },
+        {
+            "kashi": "禁",
+            "kana": "キ",
+            "index": 0,
+            "length": 2,
+            "x": 111,
+            "y": 53,
+            "time": 80.5
+        },
+        {
+            "kashi": "禁",
+            "kana": "ン",
+            "index": 1,
+            "length": 2,
+            "x": 112,
+            "y": 53,
+            "time": 80.5625
+        },
+        {
+            "kashi": "忌",
+            "kana": "キ",
+            "index": 0,
+            "length": 1,
+            "x": 113,
+            "y": 53,
+            "time": 80.75
+        },
+        {
+            "kashi": "産",
+            "kana": "ウ",
+            "index": 0,
+            "length": 1,
+            "x": 114,
+            "y": 53,
+            "time": 80.875
+        },
+        {
+            "kashi": "め",
+            "kana": "メ",
+            "index": 0,
+            "length": 1,
+            "x": 115,
+            "y": 53,
+            "time": 81.0
+        },
+        {
+            "kashi": "善",
+            "kana": "イ",
+            "index": 0,
+            "length": 1,
+            "x": 116,
+            "y": 53,
+            "time": 81.0625
+        },
+        {
+            "kashi": "さ",
+            "kana": "サ",
+            "index": 0,
+            "length": 1,
+            "x": 117,
+            "y": 53,
+            "time": 81.125
+        },
+        {
+            "kashi": "臭",
+            "kana": "ク",
+            "index": 0,
+            "length": 2,
+            "x": 118,
+            "y": 53,
+            "time": 81.25
+        },
+        {
+            "kashi": "臭",
+            "kana": "サ",
+            "index": 1,
+            "length": 2,
+            "x": 119,
+            "y": 53,
+            "time": 81.375
+        },
+        {
+            "kashi": "い",
+            "kana": "イ",
+            "index": 0,
+            "length": 1,
+            "x": 110,
+            "y": 54,
+            "time": 81.5
+        },
+        {
+            "kashi": "危",
+            "kana": "キ",
+            "index": 0,
+            "length": 1,
+            "x": 111,
+            "y": 54,
+            "time": 81.625
+        },
+        {
+            "kashi": "息",
+            "kana": "イ",
+            "index": 0,
+            "length": 2,
+            "x": 112,
+            "y": 54,
+            "time": 81.6875
+        },
+        {
+            "kashi": "息",
+            "kana": "キ",
+            "index": 1,
+            "length": 2,
+            "x": 113,
+            "y": 54,
+            "time": 81.75
+        },
+        {
+            "kashi": "膿",
+            "kana": "ウ",
+            "index": 0,
+            "length": 1,
+            "x": 114,
+            "y": 54,
+            "time": 82.0
+        },
+        {
+            "kashi": "め",
+            "kana": "メ",
+            "index": 0,
+            "length": 1,
+            "x": 115,
+            "y": 54,
+            "time": 82.125
+        },
+        {
+            "kashi": "胃",
+            "kana": "イ",
+            "index": 0,
+            "length": 1,
+            "x": 116,
+            "y": 54,
+            "time": 82.1875
+        },
+        {
+            "kashi": "裂",
+            "kana": "サ",
+            "index": 0,
+            "length": 1,
+            "x": 117,
+            "y": 54,
+            "time": 82.25
+        },
+        {
+            "kashi": "く",
+            "kana": "ク",
+            "index": 0,
+            "length": 1,
+            "x": 118,
+            "y": 54,
+            "time": 82.375
+        },
+        {
+            "kashi": "再",
+            "kana": "サ",
+            "index": 0,
+            "length": 2,
+            "x": 119,
+            "y": 54,
+            "time": 82.5
+        },
+        {
+            "kashi": "再",
+            "kana": "イ",
+            "index": 1,
+            "length": 2,
+            "x": 110,
+            "y": 55,
+            "time": 82.5625
+        },
+        {
+            "kashi": "試",
+            "kana": "シ",
+            "index": 0,
+            "length": 1,
+            "x": 111,
+            "y": 55,
+            "time": 82.625
+        },
+        {
+            "kashi": "生",
+            "kana": "イ",
+            "index": 0,
+            "length": 1,
+            "x": 112,
+            "y": 55,
+            "time": 82.6875
+        },
+        {
+            "kashi": "き",
+            "kana": "キ",
+            "index": 0,
+            "length": 1,
+            "x": 113,
+            "y": 55,
+            "time": 82.75
+        },
+        {
+            "kashi": "埋",
+            "kana": "ウ",
+            "index": 0,
+            "length": 1,
+            "x": 114,
+            "y": 55,
+            "time": 82.875
+        },
+        {
+            "kashi": "め",
+            "kana": "メ",
+            "index": 0,
+            "length": 1,
+            "x": 115,
+            "y": 55,
+            "time": 83.0
+        },
+        {
+            "kashi": "遺",
+            "kana": "イ",
+            "index": 0,
+            "length": 1,
+            "x": 116,
+            "y": 55,
+            "time": 83.125
+        },
+        {
+            "kashi": "作",
+            "kana": "サ",
+            "index": 0,
+            "length": 2,
+            "x": 117,
+            "y": 55,
+            "time": 83.25
+        },
+        {
+            "kashi": "作",
+            "kana": "ク",
+            "index": 1,
+            "length": 2,
+            "x": 118,
+            "y": 55,
+            "time": 83.3125
+        },
+        {
+            "kashi": "細",
+            "kana": "サ",
+            "index": 0,
+            "length": 2,
+            "x": 119,
+            "y": 55,
+            "time": 83.375
+        },
+        {
+            "kashi": "細",
+            "kana": "イ",
+            "index": 1,
+            "length": 2,
+            "x": 110,
+            "y": 56,
+            "time": 83.4375
+        },
+        {
+            "kashi": "事",
+            "kana": "ジ",
+            "index": 0,
+            "length": 1,
+            "x": 111,
+            "y": 56,
+            "time": 83.5
+        },
+        {
+            "kashi": "行",
+            "kana": "イ",
+            "index": 0,
+            "length": 1,
+            "x": 112,
+            "y": 56,
+            "time": 83.5625
+        },
+        {
+            "kashi": "き",
+            "kana": "キ",
+            "index": 0,
+            "length": 1,
+            "x": 113,
+            "y": 56,
+            "time": 83.625
+        },
+        {
+            "kashi": "知",
+            "kana": "チ",
+            "index": 0,
+            "length": 1,
+            "x": 114,
+            "y": 56,
+            "time": 83.75
+        },
+        {
+            "kashi": "名",
+            "kana": "メ",
+            "index": 0,
+            "length": 2,
+            "x": 115,
+            "y": 56,
+            "time": 83.875
+        },
+        {
+            "kashi": "名",
+            "kana": "イ",
+            "index": 1,
+            "length": 2,
+            "x": 116,
+            "y": 56,
+            "time": 83.9375
+        },
+        {
+            "kashi": "咲",
+            "kana": "サ",
+            "index": 0,
+            "length": 1,
+            "x": 117,
+            "y": 56,
+            "time": 84.125
+        },
+        {
+            "kashi": "く",
+            "kana": "ク",
+            "index": 0,
+            "length": 1,
+            "x": 118,
+            "y": 56,
+            "time": 84.25
+        },
+        {
+            "kashi": "才",
+            "kana": "サ",
+            "index": 0,
+            "length": 2,
+            "x": 119,
+            "y": 56,
+            "time": 84.375
+        },
+        {
+            "kashi": "才",
+            "kana": "イ",
+            "index": 1,
+            "length": 2,
+            "x": 110,
+            "y": 57,
+            "time": 84.4375
+        },
+        {
+            "kashi": "し",
+            "kana": "シ",
+            "index": 0,
+            "length": 1,
+            "x": 111,
+            "y": 57,
+            "time": 84.5
+        },
+        {
+            "kashi": "い",
+            "kana": "イ",
+            "index": 0,
+            "length": 1,
+            "x": 112,
+            "y": 57,
+            "time": 84.625
+        },
+        {
+            "kashi": "奇",
+            "kana": "キ",
+            "index": 0,
+            "length": 1,
+            "x": 113,
+            "y": 57,
+            "time": 84.75
+        },
+        {
+            "kashi": "知",
+            "kana": "チ",
+            "index": 0,
+            "length": 1,
+            "x": 114,
+            "y": 57,
+            "time": 84.875
+        },
+        {
+            "kashi": "名",
+            "kana": "メ",
+            "index": 0,
+            "length": 2,
+            "x": 115,
+            "y": 57,
+            "time": 85.0
+        },
+        {
+            "kashi": "名",
+            "kana": "イ",
+            "index": 1,
+            "length": 2,
+            "x": 116,
+            "y": 57,
+            "time": 85.0625
+        },
+        {
+            "kashi": "作",
+            "kana": "サ",
+            "index": 0,
+            "length": 2,
+            "x": 117,
+            "y": 57,
+            "time": 85.125
+        },
+        {
+            "kashi": "作",
+            "kana": "ク",
+            "index": 1,
+            "length": 2,
+            "x": 118,
+            "y": 57,
+            "time": 85.1875
+        },
+        {
+            "kashi": "な",
+            "kana": "ナ",
+            "index": 0,
+            "length": 1,
+            "x": 119,
+            "y": 57,
+            "time": 85.25
+        },
+        {
+            "kashi": "い",
+            "kana": "イ",
+            "index": 0,
+            "length": 1,
+            "x": 110,
+            "y": 58,
+            "time": 85.375
+        },
+        {
+            "kashi": "死",
+            "kana": "シ",
+            "index": 0,
+            "length": 1,
+            "x": 111,
+            "y": 58,
+            "time": 85.5
+        },
+        {
+            "kashi": "域",
+            "kana": "イ",
+            "index": 0,
+            "length": 2,
+            "x": 112,
+            "y": 58,
+            "time": 85.625
+        },
+        {
+            "kashi": "域",
+            "kana": "キ",
+            "index": 1,
+            "length": 2,
+            "x": 113,
+            "y": 58,
+            "time": 85.75
+        },
+        {
+            "kashi": "致",
+            "kana": "チ",
+            "index": 0,
+            "length": 1,
+            "x": 114,
+            "y": 58,
+            "time": 85.875
+        },
+        {
+            "kashi": "命",
+            "kana": "メ",
+            "index": 0,
+            "length": 2,
+            "x": 115,
+            "y": 58,
+            "time": 86.0
+        },
+        {
+            "kashi": "命",
+            "kana": "イ",
+            "index": 1,
+            "length": 2,
+            "x": 116,
+            "y": 58,
+            "time": 86.0625
+        },
+        {
+            "kashi": "雑",
+            "kana": "ザ",
+            "index": 0,
+            "length": 2,
+            "x": 117,
+            "y": 58,
+            "time": 86.125
+        },
+        {
+            "kashi": "雑",
+            "kana": "ツ",
+            "index": 1,
+            "length": 2,
+            "x": 118,
+            "y": 58,
+            "time": 86.25
+        },
+        {
+            "kashi": "な",
+            "kana": "ナ",
+            "index": 0,
+            "length": 1,
+            "x": 119,
+            "y": 58,
+            "time": 86.375
+        },
+        {
+            "kashi": "維",
+            "kana": "イ",
+            "index": 0,
+            "length": 1,
+            "x": 110,
+            "y": 59,
+            "time": 86.5
+        },
+        {
+            "kashi": "持",
+            "kana": "ジ",
+            "index": 0,
+            "length": 1,
+            "x": 111,
+            "y": 59,
+            "time": 86.625
+        },
+        {
+            "kashi": "閾",
+            "kana": "イ",
+            "index": 0,
+            "length": 2,
+            "x": 112,
+            "y": 59,
+            "time": 86.75
+        },
+        {
+            "kashi": "閾",
+            "kana": "キ",
+            "index": 1,
+            "length": 2,
+            "x": 113,
+            "y": 59,
+            "time": 86.875
+        },
+        {
+            "kashi": "値",
+            "kana": "チ",
+            "index": 0,
+            "length": 1,
+            "x": 114,
+            "y": 59,
+            "time": 86.9375
+        },
+        {
+            "kashi": "明",
+            "kana": "メ",
+            "index": 0,
+            "length": 2,
+            "x": 115,
+            "y": 59,
+            "time": 87.0
+        },
+        {
+            "kashi": "明",
+            "kana": "イ",
+            "index": 1,
+            "length": 2,
+            "x": 116,
+            "y": 59,
+            "time": 87.0625
+        },
+        {
+            "kashi": "察",
+            "kana": "サ",
+            "index": 0,
+            "length": 2,
+            "x": 117,
+            "y": 59,
+            "time": 87.125
+        },
+        {
+            "kashi": "察",
+            "kana": "ツ",
+            "index": 1,
+            "length": 2,
+            "x": 118,
+            "y": 59,
+            "time": 87.25
+        },
+        {
+            "kashi": "歪",
+            "kana": "ワ",
+            "index": 0,
+            "length": 2,
+            "x": 119,
+            "y": 59,
+            "time": 87.375
+        },
+        {
+            "kashi": "歪",
+            "kana": "イ",
+            "index": 1,
+            "length": 2,
+            "x": 110,
+            "y": 60,
+            "time": 87.5
+        },
+        {
+            "kashi": "視",
+            "kana": "シ",
+            "index": 0,
+            "length": 1,
+            "x": 111,
+            "y": 60,
+            "time": 87.625
+        },
+        {
+            "kashi": "異",
+            "kana": "イ",
+            "index": 0,
+            "length": 1,
+            "x": 112,
+            "y": 60,
+            "time": 87.75
+        },
+        {
+            "kashi": "議",
+            "kana": "ギ",
+            "index": 0,
+            "length": 1,
+            "x": 113,
+            "y": 60,
+            "time": 87.875
+        },
+        {
+            "kashi": "遅",
+            "kana": "チ",
+            "index": 0,
+            "length": 1,
+            "x": 114,
+            "y": 60,
+            "time": 88.0
+        },
+        {
+            "kashi": "明",
+            "kana": "メ",
+            "index": 0,
+            "length": 2,
+            "x": 115,
+            "y": 60,
+            "time": 88.125
+        },
+        {
+            "kashi": "明",
+            "kana": "イ",
+            "index": 1,
+            "length": 2,
+            "x": 116,
+            "y": 60,
+            "time": 88.25
+        },
+        {
+            "kashi": "さ",
+            "kana": "サ",
+            "index": 0,
+            "length": 1,
+            "x": 117,
+            "y": 60,
+            "time": 88.375
+        },
+        {
+            "kashi": "歯",
+            "kana": "ヨ",
+            "index": 0,
+            "length": 3,
+            "x": 118,
+            "y": 60,
+            "time": 88.4375
+        },
+        {
+            "kashi": "歯",
+            "kana": "ワ",
+            "index": 1,
+            "length": 3,
+            "x": 119,
+            "y": 60,
+            "time": 88.5
+        },
+        {
+            "kashi": "歯",
+            "kana": "イ",
+            "index": 2,
+            "length": 3,
+            "x": 110,
+            "y": 61,
+            "time": 88.5625
+        },
+        {
+            "kashi": "し",
+            "kana": "シ",
+            "index": 0,
+            "length": 1,
+            "x": 111,
+            "y": 61,
+            "time": 88.75
+        },
+        {
+            "kashi": "活",
+            "kana": "イ",
+            "index": 0,
+            "length": 1,
+            "x": 112,
+            "y": 61,
+            "time": 88.8125
+        },
+        {
+            "kashi": "き",
+            "kana": "キ",
+            "index": 0,
+            "length": 1,
+            "x": 113,
+            "y": 61,
+            "time": 88.875
+        },
+        {
+            "kashi": "知",
+            "kana": "チ",
+            "index": 0,
+            "length": 1,
+            "x": 114,
+            "y": 61,
+            "time": 89.0
+        },
+        {
+            "kashi": "命",
+            "kana": "メ",
+            "index": 0,
+            "length": 2,
+            "x": 115,
+            "y": 61,
+            "time": 89.125
+        },
+        {
+            "kashi": "命",
+            "kana": "イ",
+            "index": 1,
+            "length": 2,
+            "x": 116,
+            "y": 61,
+            "time": 89.1875
+        },
+        {
+            "kashi": "小",
+            "kana": "サ",
+            "index": 0,
+            "length": 1,
+            "x": 117,
+            "y": 61,
+            "time": 89.25
+        },
+        {
+            "kashi": "夜",
+            "kana": "ヨ",
+            "index": 0,
+            "length": 1,
+            "x": 118,
+            "y": 61,
+            "time": 89.375
+        },
+        {
+            "kashi": "初",
+            "kana": "ウ",
+            "index": 0,
+            "length": 2,
+            "x": 119,
+            "y": 61,
+            "time": 89.5
+        },
+        {
+            "kashi": "初",
+            "kana": "イ",
+            "index": 1,
+            "length": 2,
+            "x": 110,
+            "y": 62,
+            "time": 89.5625
+        },
+        {
+            "kashi": "し",
+            "kana": "シ",
+            "index": 0,
+            "length": 1,
+            "x": 111,
+            "y": 62,
+            "time": 89.625
+        },
+        {
+            "kashi": "い",
+            "kana": "イ",
+            "index": 0,
+            "length": 1,
+            "x": 112,
+            "y": 62,
+            "time": 89.6875
+        },
+        {
+            "kashi": "既",
+            "kana": "キ",
+            "index": 0,
+            "length": 1,
+            "x": 113,
+            "y": 62,
+            "time": 89.75
+        },
+        {
+            "kashi": "知",
+            "kana": "チ",
+            "index": 0,
+            "length": 1,
+            "x": 114,
+            "y": 62,
+            "time": 89.875
+        },
+        {
+            "kashi": "が",
+            "kana": "ガ",
+            "index": 0,
+            "length": 1,
+            "x": 115,
+            "y": 62,
+            "time": 90.0
+        },
+        {
+            "kashi": "猶",
+            "kana": "イ",
+            "index": 0,
+            "length": 2,
+            "x": 116,
+            "y": 62,
+            "time": 90.125
+        },
+        {
+            "kashi": "猶",
+            "kana": "ザ",
+            "index": 1,
+            "length": 2,
+            "x": 117,
+            "y": 62,
+            "time": 90.25
+        },
+        {
+            "kashi": "予",
+            "kana": "ヨ",
+            "index": 0,
+            "length": 1,
+            "x": 118,
+            "y": 62,
+            "time": 90.375
+        },
+        {
+            "kashi": "う",
+            "kana": "ウ",
+            "index": 0,
+            "length": 1,
+            "x": 119,
+            "y": 62,
+            "time": 90.4375
+        },
+        {
+            "kashi": "意",
+            "kana": "イ",
+            "index": 0,
+            "length": 1,
+            "x": 110,
+            "y": 63,
+            "time": 90.5
+        },
+        {
+            "kashi": "思",
+            "kana": "シ",
+            "index": 0,
+            "length": 1,
+            "x": 111,
+            "y": 63,
+            "time": 90.625
+        },
+        {
+            "kashi": "委",
+            "kana": "イ",
+            "index": 0,
+            "length": 1,
+            "x": 112,
+            "y": 63,
+            "time": 90.75
+        },
+        {
+            "kashi": "棄",
+            "kana": "キ",
+            "index": 0,
+            "length": 1,
+            "x": 113,
+            "y": 63,
+            "time": 90.875
+        },
+        {
+            "kashi": "地",
+            "kana": "チ",
+            "index": 0,
+            "length": 1,
+            "x": 114,
+            "y": 63,
+            "time": 91.0
+        },
+        {
+            "kashi": "が",
+            "kana": "ガ",
+            "index": 0,
+            "length": 1,
+            "x": 115,
+            "y": 63,
+            "time": 91.125
+        },
+        {
+            "kashi": "良",
+            "kana": "イ",
+            "index": 0,
+            "length": 1,
+            "x": 116,
+            "y": 63,
+            "time": 91.1875
+        },
+        {
+            "kashi": "の",
+            "kana": "ノ",
+            "index": 0,
+            "length": 1,
+            "x": 117,
+            "y": 63,
+            "time": 91.25
+        },
+        {
+            "kashi": "妖",
+            "kana": "ヨ",
+            "index": 0,
+            "length": 2,
+            "x": 118,
+            "y": 63,
+            "time": 91.375
+        },
+        {
+            "kashi": "妖",
+            "kana": "ウ",
+            "index": 1,
+            "length": 2,
+            "x": 119,
+            "y": 63,
+            "time": 91.4375
+        },
+        {
+            "kashi": "異",
+            "kana": "イ",
+            "index": 0,
+            "length": 1,
+            "x": 110,
+            "y": 64,
+            "time": 91.5
+        },
+        {
+            "kashi": "は",
+            "kana": "ハ",
+            "index": 0,
+            "length": 1,
+            "x": 111,
+            "y": 64,
+            "time": 91.625
+        },
+        {
+            "kashi": "行",
+            "kana": "イ",
+            "index": 0,
+            "length": 1,
+            "x": 112,
+            "y": 64,
+            "time": 91.75
+        },
+        {
+            "kashi": "き",
+            "kana": "キ",
+            "index": 0,
+            "length": 1,
+            "x": 113,
+            "y": 64,
+            "time": 91.8125
+        },
+        {
+            "kashi": "違",
+            "kana": "チ",
+            "index": 0,
+            "length": 2,
+            "x": 114,
+            "y": 64,
+            "time": 91.875
+        },
+        {
+            "kashi": "違",
+            "kana": "ガ",
+            "index": 1,
+            "length": 2,
+            "x": 115,
+            "y": 64,
+            "time": 92.0
+        },
+        {
+            "kashi": "い",
+            "kana": "イ",
+            "index": 0,
+            "length": 1,
+            "x": 116,
+            "y": 64,
+            "time": 92.125
+        },
+        {
+            "kashi": "の",
+            "kana": "ノ",
+            "index": 0,
+            "length": 1,
+            "x": 117,
+            "y": 64,
+            "time": 92.25
+        },
+        {
+            "kashi": "様",
+            "kana": "ヨ",
+            "index": 0,
+            "length": 2,
+            "x": 118,
+            "y": 64,
+            "time": 92.375
+        },
+        {
+            "kashi": "様",
+            "kana": "ウ",
+            "index": 1,
+            "length": 2,
+            "x": 119,
+            "y": 64,
+            "time": 92.4375
+        },
+        {
+            "kashi": "イ",
+            "kana": "イ",
+            "index": 0,
+            "length": 1,
+            "x": 110,
+            "y": 65,
+            "time": 92.5
+        },
+        {
+            "kashi": "タ",
+            "kana": "タ",
+            "index": 0,
+            "length": 1,
+            "x": 111,
+            "y": 65,
+            "time": 93.0
+        },
+        {
+            "kashi": "い",
+            "kana": "イ",
+            "index": 0,
+            "length": 1,
+            "x": 112,
+            "y": 65,
+            "time": 93.125
+        },
+        {
+            "kashi": "キ",
+            "kana": "キ",
+            "index": 0,
+            "length": 1,
+            "x": 113,
+            "y": 65,
+            "time": 93.375
+        },
+        {
+            "kashi": "チ",
+            "kana": "チ",
+            "index": 0,
+            "length": 1,
+            "x": 114,
+            "y": 65,
+            "time": 93.5
+        },
+        {
+            "kashi": "ガ",
+            "kana": "ガ",
+            "index": 0,
+            "length": 1,
+            "x": 115,
+            "y": 65,
+            "time": 93.625
+        },
+        {
+            "kashi": "イ",
+            "kana": "イ",
+            "index": 0,
+            "length": 1,
+            "x": 116,
+            "y": 65,
+            "time": 94.0
+        },
+        {
+            "kashi": "の",
+            "kana": "ノ",
+            "index": 0,
+            "length": 1,
+            "x": 117,
+            "y": 65,
+            "time": 94.125
+        },
+        {
+            "kashi": "世",
+            "kana": "ヨ",
+            "index": 0,
+            "length": 1,
+            "x": 118,
+            "y": 65,
+            "time": 94.5
+        },
+        {
+            "kashi": "有",
+            "kana": "ウ",
+            "index": 0,
+            "length": 1,
+            "x": 119,
+            "y": 65,
+            "time": 95.0
+        },
+        {
+            "kashi": "為",
+            "kana": "イ",
+            "index": 0,
+            "length": 1,
+            "x": 110,
+            "y": 66,
+            "time": 95.125
+        },
+        {
+            "kashi": "回",
+            "kana": "カ",
+            "index": 0,
+            "length": 1,
+            "x": 111,
+            "y": 66,
+            "time": 95.5
+        },
+        {
+            "kashi": "帰",
+            "kana": "イ",
+            "index": 0,
+            "length": 2,
+            "x": 112,
+            "y": 66,
+            "time": 95.625
+        },
+        {
+            "kashi": "帰",
+            "kana": "キ",
+            "index": 1,
+            "length": 2,
+            "x": 113,
+            "y": 66,
+            "time": 95.875
+        },
+        {
+            "kashi": "誓",
+            "kana": "チ",
+            "index": 0,
+            "length": 2,
+            "x": 114,
+            "y": 66,
+            "time": 96.125
+        },
+        {
+            "kashi": "誓",
+            "kana": "カ",
+            "index": 1,
+            "length": 2,
+            "x": 115,
+            "y": 66,
+            "time": 96.25
+        },
+        {
+            "kashi": "い",
+            "kana": "イ",
+            "index": 0,
+            "length": 1,
+            "x": 116,
+            "y": 66,
+            "time": 96.375
+        },
+        {
+            "kashi": "意",
+            "kana": "イ",
+            "index": 0,
+            "length": 1,
+            "x": 110,
+            "y": 67,
+            "time": 96.5
+        },
+        {
+            "kashi": "外",
+            "kana": "ガ",
+            "index": 0,
+            "length": 2,
+            "x": 111,
+            "y": 67,
+            "time": 97.0
+        },
+        {
+            "kashi": "外",
+            "kana": "イ",
+            "index": 1,
+            "length": 2,
+            "x": 112,
+            "y": 67,
+            "time": 97.125
+        },
+        {
+            "kashi": "と",
+            "kana": "ト",
+            "index": 0,
+            "length": 1,
+            "x": 113,
+            "y": 67,
+            "time": 97.5
+        },
+        {
+            "kashi": "近",
+            "kana": "チ",
+            "index": 0,
+            "length": 2,
+            "x": 114,
+            "y": 67,
+            "time": 97.875
+        },
+        {
+            "kashi": "近",
+            "kana": "カ",
+            "index": 1,
+            "length": 2,
+            "x": 115,
+            "y": 67,
+            "time": 98.0
+        },
+        {
+            "kashi": "い",
+            "kana": "イ",
+            "index": 0,
+            "length": 1,
+            "x": 116,
+            "y": 67,
+            "time": 98.125
+        },
+        {
+            "kashi": "異",
+            "kana": "イ",
+            "index": 0,
+            "length": 1,
+            "x": 110,
+            "y": 68,
+            "time": 98.5
+        },
+        {
+            "kashi": "界",
+            "kana": "カ",
+            "index": 0,
+            "length": 2,
+            "x": 111,
+            "y": 68,
+            "time": 99.0
+        },
+        {
+            "kashi": "界",
+            "kana": "イ",
+            "index": 1,
+            "length": 2,
+            "x": 112,
+            "y": 68,
+            "time": 99.125
+        },
+        {
+            "kashi": "の",
+            "kana": "ノ",
+            "index": 0,
+            "length": 1,
+            "x": 113,
+            "y": 68,
+            "time": 99.5
+        },
+        {
+            "kashi": "血",
+            "kana": "チ",
+            "index": 0,
+            "length": 1,
+            "x": 114,
+            "y": 68,
+            "time": 99.875
+        },
+        {
+            "kashi": "怪",
+            "kana": "カ",
+            "index": 0,
+            "length": 2,
+            "x": 115,
+            "y": 68,
+            "time": 100.0
+        },
+        {
+            "kashi": "怪",
+            "kana": "イ",
+            "index": 1,
+            "length": 2,
+            "x": 116,
+            "y": 68,
+            "time": 100.125
+        },
+        {
+            "kashi": "異",
+            "kana": "イ",
+            "index": 0,
+            "length": 1,
+            "x": 110,
+            "y": 69,
+            "time": 100.5
+        },
+        {
+            "kashi": "害",
+            "kana": "ガ",
+            "index": 0,
+            "length": 2,
+            "x": 111,
+            "y": 69,
+            "time": 101.0
+        },
+        {
+            "kashi": "害",
+            "kana": "イ",
+            "index": 1,
+            "length": 2,
+            "x": 112,
+            "y": 69,
+            "time": 101.125
+        },
+        {
+            "kashi": "の",
+            "kana": "ノ",
+            "index": 0,
+            "length": 1,
+            "x": 113,
+            "y": 69,
+            "time": 101.5
+        },
+        {
+            "kashi": "痴",
+            "kana": "チ",
+            "index": 0,
+            "length": 1,
+            "x": 114,
+            "y": 69,
+            "time": 101.875
+        },
+        {
+            "kashi": "騃",
+            "kana": "ガ",
+            "index": 0,
+            "length": 2,
+            "x": 115,
+            "y": 69,
+            "time": 102.0
+        },
+        {
+            "kashi": "騃",
+            "kana": "イ",
+            "index": 1,
+            "length": 2,
+            "x": 116,
+            "y": 69,
+            "time": 102.125
+        },
+        {
+            "kashi": "位",
+            "kana": "イ",
+            "index": 0,
+            "length": 1,
+            "x": 110,
+            "y": 70,
+            "time": 102.5
+        },
+        {
+            "kashi": "階",
+            "kana": "カ",
+            "index": 0,
+            "length": 2,
+            "x": 111,
+            "y": 70,
+            "time": 103.0
+        },
+        {
+            "kashi": "階",
+            "kana": "イ",
+            "index": 1,
+            "length": 2,
+            "x": 112,
+            "y": 70,
+            "time": 103.125
+        },
+        {
+            "kashi": "間",
+            "kana": "マ",
+            "index": 0,
+            "length": 1,
+            "x": 113,
+            "y": 70,
+            "time": 103.5
+        },
+        {
+            "kashi": "違",
+            "kana": "チ",
+            "index": 0,
+            "length": 2,
+            "x": 114,
+            "y": 70,
+            "time": 103.875
+        },
+        {
+            "kashi": "違",
+            "kana": "ガ",
+            "index": 1,
+            "length": 2,
+            "x": 115,
+            "y": 70,
+            "time": 104.0
+        },
+        {
+            "kashi": "い",
+            "kana": "イ",
+            "index": 0,
+            "length": 1,
+            "x": 116,
+            "y": 70,
+            "time": 104.125
+        },
+        {
+            "kashi": "厳",
+            "kana": "イ",
+            "index": 0,
+            "length": 2,
+            "x": 110,
+            "y": 71,
+            "time": 104.5
+        },
+        {
+            "kashi": "厳",
+            "kana": "カ",
+            "index": 1,
+            "length": 2,
+            "x": 111,
+            "y": 71,
+            "time": 105.0
+        },
+        {
+            "kashi": "い",
+            "kana": "イ",
+            "index": 0,
+            "length": 1,
+            "x": 112,
+            "y": 71,
+            "time": 105.125
+        },
+        {
+            "kashi": "と",
+            "kana": "ト",
+            "index": 0,
+            "length": 1,
+            "x": 113,
+            "y": 71,
+            "time": 105.5
+        },
+        {
+            "kashi": "怒",
+            "kana": "イ",
+            "index": 0,
+            "length": 2,
+            "x": 110,
+            "y": 72,
+            "time": 105.875
+        },
+        {
+            "kashi": "怒",
+            "kana": "カ",
+            "index": 1,
+            "length": 2,
+            "x": 111,
+            "y": 72,
+            "time": 106.0
+        },
+        {
+            "kashi": "れ",
+            "kana": "レ",
+            "index": 0,
+            "length": 1,
+            "x": 112,
+            "y": 72,
+            "time": 106.125
+        },
+        {
+            "kashi": "問",
+            "kana": "ト",
+            "index": 0,
+            "length": 1,
+            "x": 113,
+            "y": 72,
+            "time": 106.5
+        },
+        {
+            "kashi": "い",
+            "kana": "イ",
+            "index": 0,
+            "length": 1,
+            "x": 110,
+            "y": 73,
+            "time": 106.875
+        },
+        {
+            "kashi": "枯",
+            "kana": "カ",
+            "index": 0,
+            "length": 1,
+            "x": 111,
+            "y": 73,
+            "time": 107.0
+        },
+        {
+            "kashi": "れ",
+            "kana": "レ",
+            "index": 0,
+            "length": 1,
+            "x": 112,
+            "y": 73,
+            "time": 107.125
+        },
+        {
+            "kashi": "る",
+            "kana": "ル",
+            "index": 0,
+            "length": 1,
+            "x": 113,
+            "y": 73,
+            "time": 107.5
+        },
+        {
+            "kashi": "言",
+            "kana": "イ",
+            "index": 0,
+            "length": 1,
+            "x": 110,
+            "y": 74,
+            "time": 107.875
+        },
+        {
+            "kashi": "わ",
+            "kana": "ワ",
+            "index": 0,
+            "length": 1,
+            "x": 111,
+            "y": 74,
+            "time": 108.0
+        },
+        {
+            "kashi": "れ",
+            "kana": "レ",
+            "index": 0,
+            "length": 1,
+            "x": 112,
+            "y": 74,
+            "time": 108.125
+        },
+        {
+            "kashi": "る",
+            "kana": "ル",
+            "index": 0,
+            "length": 1,
+            "x": 113,
+            "y": 74,
+            "time": 108.375
+        },
+        {
+            "kashi": "居",
+            "kana": "イ",
+            "index": 0,
+            "length": 1,
+            "x": 110,
+            "y": 75,
+            "time": 108.5
+        },
+        {
+            "kashi": "渡",
+            "kana": "ワ",
+            "index": 0,
+            "length": 2,
+            "x": 111,
+            "y": 75,
+            "time": 108.625
+        },
+        {
+            "kashi": "渡",
+            "kana": "タ",
+            "index": 1,
+            "length": 2,
+            "x": 112,
+            "y": 75,
+            "time": 108.75
+        },
+        {
+            "kashi": "る",
+            "kana": "ル",
+            "index": 0,
+            "length": 1,
+            "x": 113,
+            "y": 75,
+            "time": 108.875
+        },
+        {
+            "kashi": "浪",
+            "kana": "ロ",
+            "index": 0,
+            "length": 2,
+            "x": 114,
+            "y": 75,
+            "time": 109.0
+        },
+        {
+            "kashi": "浪",
+            "kana": "ウ",
+            "index": 1,
+            "length": 2,
+            "x": 115,
+            "y": 75,
+            "time": 109.125
+        },
+        {
+            "kashi": "界",
+            "kana": "カ",
+            "index": 0,
+            "length": 2,
+            "x": 116,
+            "y": 75,
+            "time": 109.25
+        },
+        {
+            "kashi": "界",
+            "kana": "イ",
+            "index": 1,
+            "length": 2,
+            "x": 117,
+            "y": 75,
+            "time": 109.375
+        },
+        {
+            "kashi": "素",
+            "kana": "ソ",
+            "index": 0,
+            "length": 1,
+            "x": 118,
+            "y": 75,
+            "time": 109.5
+        },
+        {
+            "kashi": "義",
+            "kana": "ギ",
+            "index": 0,
+            "length": 1,
+            "x": 119,
+            "y": 75,
+            "time": 109.625
+        },
+        {
+            "kashi": "な",
+            "kana": "ナ",
+            "index": 0,
+            "length": 1,
+            "x": 120,
+            "y": 75,
+            "time": 109.75
+        },
+        {
+            "kashi": "彼",
+            "kana": "カ",
+            "index": 0,
+            "length": 2,
+            "x": 121,
+            "y": 75,
+            "time": 109.875
+        },
+        {
+            "kashi": "彼",
+            "kana": "レ",
+            "index": 1,
+            "length": 2,
+            "x": 122,
+            "y": 75,
+            "time": 110.0
+        },
+        {
+            "kashi": "未",
+            "kana": "イ",
+            "index": 0,
+            "length": 2,
+            "x": 110,
+            "y": 76,
+            "time": 110.25
+        },
+        {
+            "kashi": "未",
+            "kana": "マ",
+            "index": 1,
+            "length": 2,
+            "x": 111,
+            "y": 76,
+            "time": 110.375
+        },
+        {
+            "kashi": "だ",
+            "kana": "ダ",
+            "index": 0,
+            "length": 1,
+            "x": 112,
+            "y": 76,
+            "time": 110.625
+        },
+        {
+            "kashi": "流",
+            "kana": "ル",
+            "index": 0,
+            "length": 1,
+            "x": 113,
+            "y": 76,
+            "time": 110.75
+        },
+        {
+            "kashi": "浪",
+            "kana": "ロ",
+            "index": 0,
+            "length": 2,
+            "x": 114,
+            "y": 76,
+            "time": 110.875
+        },
+        {
+            "kashi": "浪",
+            "kana": "ウ",
+            "index": 1,
+            "length": 2,
+            "x": 115,
+            "y": 76,
+            "time": 111.0
+        },
+        {
+            "kashi": "か",
+            "kana": "カ",
+            "index": 0,
+            "length": 1,
+            "x": 116,
+            "y": 76,
+            "time": 111.125
+        },
+        {
+            "kashi": "急",
+            "kana": "イ",
+            "index": 0,
+            "length": 2,
+            "x": 117,
+            "y": 76,
+            "time": 111.25
+        },
+        {
+            "kashi": "急",
+            "kana": "ソ",
+            "index": 1,
+            "length": 2,
+            "x": 118,
+            "y": 76,
+            "time": 111.375
+        },
+        {
+            "kashi": "ぎ",
+            "kana": "ギ",
+            "index": 0,
+            "length": 1,
+            "x": 119,
+            "y": 76,
+            "time": 111.625
+        },
+        {
+            "kashi": "な",
+            "kana": "ナ",
+            "index": 0,
+            "length": 1,
+            "x": 120,
+            "y": 76,
+            "time": 111.75
+        },
+        {
+            "kashi": "加",
+            "kana": "カ",
+            "index": 0,
+            "length": 1,
+            "x": 121,
+            "y": 76,
+            "time": 111.875
+        },
+        {
+            "kashi": "齢",
+            "kana": "レ",
+            "index": 0,
+            "length": 2,
+            "x": 122,
+            "y": 76,
+            "time": 112.0
+        },
+        {
+            "kashi": "齢",
+            "kana": "イ",
+            "index": 1,
+            "length": 2,
+            "x": 110,
+            "y": 77,
+            "time": 112.25
+        },
+        {
+            "kashi": "間",
+            "kana": "マ",
+            "index": 0,
+            "length": 1,
+            "x": 111,
+            "y": 77,
+            "time": 112.375
+        },
+        {
+            "kashi": "怠",
+            "kana": "ダ",
+            "index": 0,
+            "length": 2,
+            "x": 112,
+            "y": 77,
+            "time": 112.625
+        },
+        {
+            "kashi": "怠",
+            "kana": "ル",
+            "index": 1,
+            "length": 2,
+            "x": 113,
+            "y": 77,
+            "time": 112.75
+        },
+        {
+            "kashi": "癆",
+            "kana": "ロ",
+            "index": 0,
+            "length": 2,
+            "x": 114,
+            "y": 77,
+            "time": 113.0
+        },
+        {
+            "kashi": "癆",
+            "kana": "ウ",
+            "index": 1,
+            "length": 2,
+            "x": 115,
+            "y": 77,
+            "time": 113.125
+        },
+        {
+            "kashi": "痎",
+            "kana": "ガ",
+            "index": 0,
+            "length": 2,
+            "x": 116,
+            "y": 77,
+            "time": 113.25
+        },
+        {
+            "kashi": "痎",
+            "kana": "イ",
+            "index": 1,
+            "length": 2,
+            "x": 117,
+            "y": 77,
+            "time": 113.375
+        },
+        {
+            "kashi": "時",
+            "kana": "ト",
+            "index": 0,
+            "length": 2,
+            "x": 118,
+            "y": 77,
+            "time": 113.5
+        },
+        {
+            "kashi": "時",
+            "kana": "キ",
+            "index": 1,
+            "length": 2,
+            "x": 119,
+            "y": 77,
+            "time": 113.625
+        },
+        {
+            "kashi": "流",
+            "kana": "ナ",
+            "index": 0,
+            "length": 2,
+            "x": 120,
+            "y": 77,
+            "time": 113.75
+        },
+        {
+            "kashi": "流",
+            "kana": "ガ",
+            "index": 1,
+            "length": 2,
+            "x": 121,
+            "y": 77,
+            "time": 113.875
+        },
+        {
+            "kashi": "れ",
+            "kana": "レ",
+            "index": 0,
+            "length": 1,
+            "x": 122,
+            "y": 77,
+            "time": 114.0
+        },
+        {
+            "kashi": "今",
+            "kana": "イ",
+            "index": 0,
+            "length": 2,
+            "x": 110,
+            "y": 78,
+            "time": 114.25
+        },
+        {
+            "kashi": "今",
+            "kana": "マ",
+            "index": 1,
+            "length": 2,
+            "x": 111,
+            "y": 78,
+            "time": 114.375
+        },
+        {
+            "kashi": "だ",
+            "kana": "ダ",
+            "index": 0,
+            "length": 1,
+            "x": 112,
+            "y": 78,
+            "time": 114.625
+        },
+        {
+            "kashi": "る",
+            "kana": "ル",
+            "index": 0,
+            "length": 1,
+            "x": 113,
+            "y": 78,
+            "time": 114.75
+        },
+        {
+            "kashi": "老",
+            "kana": "ロ",
+            "index": 0,
+            "length": 2,
+            "x": 114,
+            "y": 78,
+            "time": 115.0
+        },
+        {
+            "kashi": "老",
+            "kana": "ウ",
+            "index": 1,
+            "length": 2,
+            "x": 115,
+            "y": 78,
+            "time": 115.125
+        },
+        {
+            "kashi": "害",
+            "kana": "ガ",
+            "index": 0,
+            "length": 2,
+            "x": 116,
+            "y": 78,
+            "time": 115.25
+        },
+        {
+            "kashi": "害",
+            "kana": "イ",
+            "index": 1,
+            "length": 2,
+            "x": 117,
+            "y": 78,
+            "time": 115.375
+        },
+        {
+            "kashi": "ど",
+            "kana": "ド",
+            "index": 0,
+            "length": 1,
+            "x": 118,
+            "y": 78,
+            "time": 115.5
+        },
+        {
+            "kashi": "き",
+            "kana": "キ",
+            "index": 0,
+            "length": 1,
+            "x": 119,
+            "y": 78,
+            "time": 115.75
+        },
+        {
+            "kashi": "や",
+            "kana": "ヤ",
+            "index": 0,
+            "length": 1,
+            "x": 120,
+            "y": 78,
+            "time": 115.875
+        },
+        {
+            "kashi": "が",
+            "kana": "ガ",
+            "index": 0,
+            "length": 1,
+            "x": 121,
+            "y": 78,
+            "time": 116.0
+        },
+        {
+            "kashi": "れ",
+            "kana": "レ",
+            "index": 0,
+            "length": 1,
+            "x": 122,
+            "y": 78,
+            "time": 116.125
+        }
+    ]
+}
